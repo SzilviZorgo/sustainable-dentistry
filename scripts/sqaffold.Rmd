@@ -1,0 +1,360 @@
+---
+title: "SQAFFOLD"
+author: "Szilvia Zörgő"
+date: "`r format(Sys.time(), '%Y-%m-%d at %H:%M:%S %Z (UTC%z)')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 2
+    code_folding: show
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+editor_options:
+  chunk_output_type: console
+---
+
+This R Markdown file accompanies *Simple Qualitative Administration For File Organization and Development* (SQAFFOLD) created by Szilvia Zörgő. The script below integrates the directory structure and functionality of the R package {rock}, which implements the *Reproducible Open Coding Kit* (ROCK) standard. For more ROCK functions and materials, see: https://rock.science. Below "{rock}" is used to refer to the R package, "ROCK" refers to the standard or to both the R package and the standard simultaneously.
+
+Resource type                       | URL
+------------------------------------|-----------------------------------
+Open Science Framework repository   | https://osf.io/zerwu
+Website                             | https://www.sqaffold.org
+Git repository                      | https://gitlab.com/sqaffold/sqaffold-main
+License                             | CC0 1.0 Universal
+Rendered version of script          | https://sqaffold.gitlab.io/sqaffold-main
+SQAFFOLD workshop                   | https://www.sqaffold.org
+
+<br>
+
+# Introduction
+SQAFFOLD is a directory system, which aims to facilitate the organization of materials generated in qualitative or unified research projects. The subdirectories can be flexibly rearranged or extended to suit your current project. SQAFFOLD also contains plain text files; some are to be filled with project content (if it makes sense for your project), other plain text files contain ideas, tools, links to resources that may be useful in various stages of your research process. 
+
+Through {rock} functionality, SQAFFOLD also has the potential to be used for various tasks within a qualitative or unified research project, such as cleaning qualitative data, adding unique utterance identifiers to data segments, coding and segmenting data, and tabularizing them. To access these functions, you need to use the R script below.
+<br>
+
+# Getting started
+### Downloading SQAFFOLD
+If you have not done so, you can download a zip of SQAFFOLD [here](https://gitlab.com/sqaffold/sqaffold-main){.external target="_blank"}.
+
+### R setup
+To employ the script below, you need to download R and RStudio; some guidance on that is available [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html){.external target="_blank"}.
+
+If you do not want to work locally, you can use Posit Cloud (formerly: RStudio Cloud; https://posit.cloud) by creating an account and uploading SQAFFOLD as a zip file. In this case, you do not need to download anything R-related.
+
+### Understanding R Markdown
+Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see [here](http://rmarkdown.rstudio.com){.external target="_blank"}.
+
+The script below contains R commands (in the gray sections called "chunks"), which can be run individually by pressing the green "play button" in the chunk's upper right corner. Note, you will only see this option if you open the script in RStudio; otherwise, this file, like every other file in SQAFFOLD, merely contains plain text.
+
+# Using SQAFFOLD to perform {rock} functions
+Below are some basic {rock} functions you can run from SQAFFOLD. To access full {rock} functionality, see: https://rock.opens.science. SQAFFOLD Main (as opposed to the workshop) integrates Git as well (see e.g., files with the .git extension), which is a repository and version control system. For setting up a Gitlab repository, see [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#setting-up-the-basics){.external target="_blank"}. You do not *need* to use Gitlab in order for SQAFFOLD (or {rock}) functionality to work, but it is a best practice.
+
+### Basic setup 
+**Run this chunk every time you start a session!**
+The chunk below will install all R packages needed to run the commands in the script. To be sure you are up-to-date, run this chunk every time you wish to use the script. This chunk also contains the specifications for persistent identifiers (see [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#designate-your-persistent-ids){.external target="_blank"}); if you have any other persistent IDs apart from the ones listed, you can add those here. Lastly, this chunk contains the paths to subdirectories, which {rock} commands will consider input and output destinations. Run it by clicking on the green play button in the top right corner of the chunk. 
+<br>
+*To run commands when knitting this script, change "eval = FALSE" to "eval = TRUE" in the knitr options!*
+
+```{r, basic-setup}
+
+### package installs and updates
+packagesToCheck <- c("rock", "here", "knitr", "writexl");
+for (currentPkg in packagesToCheck) {
+  if (!requireNamespace(currentPkg, quietly = TRUE)) {
+    install.packages(currentPkg, repos="http://cran.rstudio.com");
+  }
+}
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  eval = FALSE,
+  comment = ""
+);
+
+rock::opts$set(
+  silent = TRUE,
+  idRegexes = list(
+    cid = "\\[\\[cid[=:]([a-zA-Z][a-zA-Z0-9_]*)\\]\\]",
+    coderId = "\\[\\[coderid[=:]([a-zA-Z][a-zA-Z0-9_]*)\\]\\]"
+  ),
+  sectionRegexes = list(
+    sectionBreak = "---<<([a-zA-Z][a-zA-Z0-9_]*)>>---"
+  ),
+  persistentIds = c("cid", "coderId")
+);
+
+### Set paths for later
+basePath <- here::here();
+dataPath <- file.path(basePath, "data");
+scriptsPath <- file.path(basePath, "scripts");
+resultsPath <- file.path(basePath, "results");
+
+```
+
+<br>
+
+### Preparing data
+Place your data into the "010---raw-sources" subdirectory located within the data directory. Your data should be in plain text files; these are referred to as "sources" from here on. For more on preparing data, see [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#data-preparation){.external target="_blank"}.
+
+Note, you may want to list attributes of your data providers or data provision. These should be specified according to the ROCK standard. For guidance on this, see [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#designate-your-attributes){.external target="_blank"}.
+<br>
+
+### Cleaning data
+Qualitative data is often "messy", but you can use this command to help you clean them in several respects. To view these aspects, type "?rock::clean_sources" into the console and hit enter. Most importantly, the cleaning command places each of the sentences in your data on a new line. Since coding with iROCK (see below) is performed per line of data, this act of segmentation is a necessary step when working with ROCK. But your data does not need to be segmented based on sentences. The smallest codable pieces can be anything from a paragraph to an entire transcript. The {rock} package recognizes newline characters as indicators of segmentation, so if you do not want to code sentence-by-sentence, you can place your chosen segments on new lines manually or change the default options in the R package. Note, this act of segmentation refers to the lowest level (on which you will code); you can also add higher levels of segmentation (e.g., delimiting topics), by adding section breaks. For more on section breaks, see [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#coding-and-segmentation){.external target="_blank"}. The chunk below will write the cleaned sources found in "010---raw-sources" into the subdirectory "020---cleaned-sources".
+
+```{r, clean-data}
+
+rock::clean_sources(
+  input = file.path(dataPath, "010---raw-sources"),
+  output = file.path(dataPath, "020---cleaned-sources")
+);
+
+```
+<br>
+
+### Adding unique utterance identifiers
+If it makes sense for your project, you may choose to add a unique identifier to each line of data (lines from here on are referred to as "utterances"). With this unique utterance identifier (uid), you will be able to locate or refer to any specific utterance in your dataset. Furthermore, if multiple coders are employing different codes (or coding schemes) to code the data, you may want to merge those different versions of the coded sources into a source that contains all codes applied by the various researchers; this merging takes place based on uids. To view more on uids, type "?rock::prepend_ids_to_sources" into the console and hit enter. The chunk below will write the sources with uids into the subdirectory "030---sources-with-uids".
+
+```{r, add-uids}
+
+rock::prepend_ids_to_sources(
+  input = file.path(dataPath, "020---cleaned-sources"),
+  output = file.path(dataPath, "030---sources-with-uids")
+);
+
+```
+<br>
+
+### Manual coding
+If you'd like to code your data manually, you can use a rudimentary graphical user interface called iROCK available at: [i.rock.science](https://i.rock.science){.external target="_blank"}. This interface allows you to upload your codes, section breaks (for higher levels of segmentation), and your sources, and then drag and drop codes/section breaks into the data. Please remember to download your work once you have finished coding. More information on iROCK is available [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#coding-and-segmentation){.external target="_blank"}
+
+Note, your codes and section breaks need to be in a specific format if you wish to upload them as a list. If you want to generate them via the interface inductively, then iROCK places those into the specified format automatically. Once you have coded and downloaded your sources, in order for the commands below to work, you need to modify the name of the sources to include a "slug". You may have noticed that the above commands (cleaning and adding uids) have also placed a slug on the name of your sources. After coding, rename sources to include the slug: "_coded"; for example: "002_Source_cleaned_withUIDs_coded". (You may also use a different slug, but then remember to change the code in the script as well!)
+
+If you'd like to employ automated coding and/or you want to use {rock} recode functions, please refer to: https://rock.opens.science and https://rock.science.
+<br>
+
+### Merge sources
+If multiple coders are applying different codes or coding schemes to the same dataset, or if a single coder is applying different codes in different rounds of coding, then merging coded sources may be useful. Merging means that you combine different coded versions of the same source into a "master" source that contains all applied codes. Merging is made possible via unique utterance identifiers (uids).
+
+Before running the command, make sure that the input directory (where the sources to be merged are located) is indeed "041---coded-sources-for-merging" and that the output directory (where the merged sources should be written) is the same. If these do not correspond to your wishes, you can modify them within the chunk. A good practice is to create a "slug" for each coded version of the sources, for example, "_coder1" and "_coder2". You will have to choose a version of the coded source to be the foundation upon which the other versions are merged (indicated by "primarySourcesRegex" in the code below). For example, the command below says that all versions of each source should be "collapsed" onto the version with the slug: "_coder1". The command below will write the merged sources into the same directory as where it found them, resulting in a merged version for each source that you placed into that directory.
+
+```{r, merge}
+rock::merge_sources(input = here::here("data",
+                                             "041---coded-sources-for-merging"),
+                          output = "same",
+                          primarySourcesPath = here::here("data",
+                                                          "041---coded-sources-for-merging"),
+                          primarySourcesRegex = "_coder1\\.rock");
+
+
+```
+<br>
+
+### Parse sources 
+**Run this chunk every session during which you want to employ the functionality below (e.g., inspecting fragments, code frequencies, heatmaps)!**
+This command will assemble all your coded sources (and persistent IDs and attributes, if you have specified these), into an R object that can be employed to run analyses and other commands below. The chunk below will use the coded sources (and if applicable, the YAML fragments) to parse your sources. The regex (regular expression) specified for retrieving those sources is set to "_coded", the slug specified in the previous step (manual coding); please modify this regex in the chunk below if your slug is different.
+
+Note, if you have used the merge sources command above, and you want to work with your merged sources regarding the commands below (code tree, heat map, code frequencies, etc.), then you should change the slug specified as the regex from "_coded" to "_merged".
+
+```{r, parse-sources}
+
+dat <-
+  rock::parse_sources(
+    dataPath,
+    regex = "_coded|attributes"
+  );
+
+```
+<br>
+
+### Inspect coded fragments
+The command below allows you to collect and inspect all coded fragments within your dataset, by code. The context is set to "2", which means that you will see two lines of data prior to the coded line, and two lines subsequent to it. Feel free to change this number if you wish to see more/less lines of context. If you wish to only inspect a certain code or codes, use the command under the heading "Inspect coded fragments for specific code(s)".
+
+```{r, coded-fragments}
+
+rock::collect_coded_fragments(
+  dat,
+  context = 2
+);
+
+```
+<br>
+
+### Inspect coded fragments for specific code(s)
+If you'd like to collect and inspect coded fragments for only certain codes, you can use the command below by changing the code labels "CodeA" and "CodeB" to the codes you'd like to inspect. If you'd only like to see fragments for a single code, just delete the "|CodeB", and leave "CodeA" in the chunk. If you'd like to add codes to the list, use the pipe and add the code label(s), e.g.: "CodeA|CodeB|CodeC". Again, you can modify the amount of context you wish to have around the coded utterance by changing "2" to any other number. The chunk below will show you coded utterances for all specified codes.
+
+```{r, inspect-codes}
+
+rock::inspect_coded_sources(
+  path = here::here("data", "040---coded-sources"),
+  fragments_args = list(
+    codes = "CodeA|CodeB",
+    context = 2
+  )
+);
+
+```
+<br>
+
+### Attribute table
+This command prints all attributes listed in the case-attributes.rock file into tabular format.
+
+```{r, attribute-table}
+
+rock::show_attribute_table(dat)
+
+```
+<br>
+
+### Code structure
+Based on your codes, {rock} can create a code tree, provided your codes are specified according to the ROCK standard; they can be flat or hierarchical. For more on these specifications, please see [here](https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#designate-your-codes-and-section-breaks){.external target="_blank"}.
+
+```{r, code-structure}
+
+rock::show_fullyMergedCodeTrees(dat)
+
+```
+<br>
+
+### Code frequencies
+This command will allow you to see a bar chart of the code frequencies within the various sources they were applied. The command also produces a legend at the bottom of the visual to help identify the sources based on color.
+
+```{r, code-frequencies}
+
+rock::code_freq_hist(
+  dat
+);
+
+```
+<br>
+
+### Code co-occurrences: Heatmap
+Code co-occurrences can be visualized with a heatmap. This representation will use colors to indicate the code co-occurrence frequencies. Co-occurrences are defined as two or more codes occurring on the same line of data (utterance). The console will also show you the co-occurrence matrix from which the visualization was generated.
+
+```{r, heatmap}
+
+rock::create_cooccurrence_matrix(
+    dat,
+    plotHeatmap = TRUE);
+
+```
+<br>
+
+### Data masking
+Not all data can be anonymized and made public. If this is the case for your data, you can mask it and make the coding (and segmentation) public by using this function. The command will take coded sources in subdirectory "040---coded-sources", mask them (substitute all characters of data with "X"s), and write them into subdirectory "090---masked-sources". You can alter the masking character (default: X) and the proportion of data to be masked; for more on this, type "?rock::mask_sources" into the console and hit enter.
+
+```{r, cliff-mask-data}
+
+rock::mask_sources(
+  input = here::here("data", "040---coded-sources"),
+  filenameRegex = "_coded",
+  output = here::here("data", "090---masked-sources")
+);
+
+```
+<br>
+
+### Export qualitative data table: excel
+This command will enable a tabularized version of your dataset, which for example, can be employed to further process your data with software such as [Epistemic Network Analysis](https://www.epistemicnetwork.org){.external target="_blank"}, or "merely" represent your coded data in a single file. In this dataset, rows are constituted by utterances, columns by variables and data. The file will be an Excel called "mergedSourceDf" located in the results subdirectory.
+
+Beware, when re-generating the qualitative data table the {rock} default is to prevent overwriting, so either allow overwrite within the script, or delete the old excel before you run this chunk.
+
+```{r, QDT-xlsx}
+
+rock::export_mergedSourceDf_to_xlsx(
+  dat,
+  file.path(resultsPath,
+            "mergedSourceDf.xlsx")
+);
+
+```
+<br>
+
+### Export qualitative data table: csv
+This command will enable a tabularized version of your dataset, which for example, can be employed to further process your data with software such as [Epistemic Network Analysis](https://www.epistemicnetwork.org){.external target="_blank"}, or "merely" represent your coded data in a single file. In this dataset, rows are constituted by utterances, columns by variables and data. The file will be a Comma-Separated Values file (.csv) called "mergedSourceDf" located in the results subdirectory.
+
+Beware, when re-generating the qualitative data table the {rock} default is to prevent overwriting, so either allow overwrite within the script, or delete the old csv before you run this chunk.
+
+```{r, QDT-csv}
+
+rock::export_mergedSourceDf_to_csv(
+  dat,
+  file.path(resultsPath,
+            "mergedSourceDf.csv")
+)
+
+```
+<br>
+
+# Working with and making this script public
+As with the SQAFFOLD in general, this script can be (and should be!) tailored to your specific project. In its final state, it is not meant as a collection of actions you can perform to your data, but as a record of what you have actually done. If you, for example, have not looked at code frequencies, because it did not make sense in your project, or if you have not tabularized your data, it is recommended that you delete those chunks from the script. 
+
+Congruently, the descriptions above each command in the script are meant to guide your work and facilitate a general understanding of the functions; these can be deleted or modified to reflect a more specific application of the commands, or to elaborate on your process. Also, the information at the very top of the script (with author names, title, etc) should also be modified to reflect your project's information.
+
+Once you have added these details, you can make this script public to increase the transparency and confirmability of your coding and analytic process. The script will let your audience know what steps you went through to prepare, code, segment, analyze, and visualize your data. It is a helpful supplement to understanding your project, and it is a great way to adhere to Open Science principles.
+
+# Workshops
+The following workshops can be taken autonomously, based on the provided instructions and materials:
+
+[One-hour SQAFFOLD workshop](https://sqaffold.gitlab.io/1-hour-workshop){.external target="_blank"} <br>
+[Two-hour ROCK workshop](https://sci-ops.gitlab.io/rock-workshop-2-hour){.external target="_blank"}
+
+# Terms used in SQAFFOLD and ROCK
+Code
+  : Construct of interest in a qualitative or unified study <br>
+
+Code ID 
+  : Machine-readable code identifier <br>
+
+Coding structure 
+  : Type of coding scheme, e.g., flat or hierarchical <br>
+
+Code label
+  : Human-readable name of code <br>
+
+Coding scheme
+  : Group of codes to be applied to qualitative data <br>
+
+Markdown
+  : Formatting syntax for authoring HTML, PDF, and MS Word documents <br>
+
+Section break
+  : Indicator of the end of a meaningful chunk of data (higher-level segmentation) <br>
+
+Segmentation
+  : Dividing the data into meaningful chunks (for further analysis) <br>
+
+Unified methods
+  : Group of methods leveraging quantified aspects of qualitative data <br>
+
+Unique utterance identifier
+  : Identifies a single line in the dataset <br>
+
+Utterance
+  : Smallest meaningful fragment of data (segmentation level where coding is performed)
+
+For more on ROCK terminology, see [here](https://sci-ops.gitlab.io/rockbook/vocab.html){.external target="_blank"}.
+
+# Citation and licensing
+SQAFFOLD and the one-hour workshop are licensed under CC0 1.0 Universal (public domain), which means you can employ them and modify them without having to cite the author. If you do wish to cite SQAFFOLD, you can do so as such:
+
+Zörgő, S. (2023, August 9). SQAFFOLD. Retrieved from osf.io/zerwu <br>
+For other formats, see the citation bar of the OSF project: https://osf.io/zerwu
+
+The Reproducible Open Coding Kit (ROCK) standard is licensed under CC0 1.0 Universal.
+The {rock} R package is licensed under a GNU General Public License; for more see: https://rock.science.
+
+ROCK citation:
+Gjalt-Jorn Ygram Peters and Szilvia Zörgő (2023). rock: Reproducible Open Coding Kit. R package version 0.7.1. https://rock.opens.science
+
+For more on ROCK materials licensing and citation, please see [here](https://rock.opens.science/authors.html#citation){.external target="_blank"}.
+
+For more on licensing in general, see: https://creativecommons.org/choose and https://how-to-open.science/share/licenses.
+
+# Feedback
+Thank you for considering to use SQAFFOLD for your qualitative or unified project. If you have any questions or would like to make suggestions on how to improve SQAFFOLD or ROCK, feel free to write to: [info@rock.science](mailto:info@rock.science).
+<br>
+<br>
+<br>
+

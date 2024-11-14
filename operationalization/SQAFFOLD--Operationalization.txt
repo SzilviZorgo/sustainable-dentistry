@@ -1,0 +1,3 @@
+One way to keep track of the evolution of your project (dilemmas, decisions, justifications, modifications, etc.), is to keep and regularly update an Operationalization document that explains the process from (before) preregistration to implementation.
+
+Sections may include: issues regarding sampling, recruitment, data curation, data wrangling, code development, coding, segmentation, and analyses.

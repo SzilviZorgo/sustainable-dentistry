@@ -1,0 +1,5 @@
+# Subdirectories: 010-090
+These subdirectories are for housing your data as it goes through various stages (raw, cleaned, uids added, coded, and masked). For more on these stages, please see: https://rockbook.org. Compared to "usual" ROCK data subdirectories, there is an additional one "041---coded-sources-for-merging", this serves to house coded files you wish to merge into a version that contains all coded versions, for more on this see within SQAFFOLD: sqaffold\scripts -> sqaffold.rmd -> "Merge sources" command.
+
+# File: Case-attributes_deleteMe
+This .rock file (plain text) contains examples for the format case attributes should be specified in so that they can be parsed by the Reproducible Open Coding Kit. For more on this standard, please see: https://sci-ops.gitlab.io/rockbook/rock-tutorial.html#designate-your-attributes.

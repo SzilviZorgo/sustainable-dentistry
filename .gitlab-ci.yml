@@ -1,0 +1,11 @@
+image: alpine
+
+pages:
+  stage: build  
+  script:
+  - mkdir public
+  - cp scripts/sqaffold.html public/index.html
+  - ls public
+  artifacts:
+    paths:
+    - public

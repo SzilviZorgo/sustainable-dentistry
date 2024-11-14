@@ -1,0 +1,1 @@
+You may want to keep track of your budget, e.g., how much you have to spend, what you have spent it on, invoices, etc. This is a good place to keep these, as if you are using Git, it will never be synced to the repository (see: .gitignore file in root directory).

@@ -1,0 +1,1 @@
+This is a document that specifies how data should be segmented. You may also want to add on what level(s) coding should be performed (as well as to coding instructions).

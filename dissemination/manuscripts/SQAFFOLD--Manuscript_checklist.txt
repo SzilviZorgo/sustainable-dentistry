@@ -1,0 +1,19 @@
+The following is an example of a checklist that an author / authors may need to go through prior to submitting a manuscript:
+
+# Administrative checklist
+-all author affiliations are correct
+-all affiliations are the same specificity (e.g., university only, university faculty and department)
+
+# Formating and consistency checklist
+-in-text references to figure and table numbers are correct
+-section numbering is correct
+-in-text references to colors within figures are correct
+-figure captions and titles are correct and complete
+-references to specific jargon are used consistently (example of inconsistency: code scheme vs. coding scheme vs. code structure)
+-code labels (human-readable) and/or identifiers (machine-readable) are formatted consistently (e.g., capitalization, italics, etc.)
+-narrative fragments (quotes) are displayed consistently (e.g., in quotation marks, in italics)
+-all tracked changes are resolved (accepted/rejected/comments removed)
+-all URLs work and point to where they should
+
+# Things to do post-submission
+-create a preprint (see: SQAFFOLD --> Dissemination)
