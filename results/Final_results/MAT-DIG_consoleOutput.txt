@@ -1,0 +1,1232 @@
+***MAT***
+
+Pair Validity Analysis:
+---------------------
+
+Case ID: case01 
+Total valid pairs: 32 
+Total invalid pairs: 32 
+
+Session Details:
+  Session case01_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case01_S02 :
+    Valid pairs: 3 
+    Invalid pairs: 13 
+  Session case01_S03 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case01_S04 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+
+Case ID: case02 
+Total valid pairs: 31 
+Total invalid pairs: 33 
+
+Session Details:
+  Session case02_S01 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+  Session case02_S02 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case02_S03 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+  Session case02_S04 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+
+Case ID: case03 
+Total valid pairs: 37 
+Total invalid pairs: 27 
+
+Session Details:
+  Session case03_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case03_S02 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case03_S03 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case03_S04 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+
+Case ID: case04 
+Total valid pairs: 31 
+Total invalid pairs: 33 
+
+Session Details:
+  Session case04_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case04_S02 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+  Session case04_S03 :
+    Valid pairs: 5 
+    Invalid pairs: 11 
+  Session case04_S04 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+
+Case ID: case05 
+Total valid pairs: 30 
+Total invalid pairs: 34 
+
+Session Details:
+  Session case05_S01 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+  Session case05_S02 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case05_S03 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case05_S04 :
+    Valid pairs: 2 
+    Invalid pairs: 14 
+
+Case ID: case06 
+Total valid pairs: 37 
+Total invalid pairs: 27 
+
+Session Details:
+  Session case06_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case06_S02 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case06_S03 :
+    Valid pairs: 5 
+    Invalid pairs: 11 
+  Session case06_S04 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+
+Case ID: case07 
+Total valid pairs: 43 
+Total invalid pairs: 21 
+
+Session Details:
+  Session case07_S01 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case07_S02 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case07_S03 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case07_S04 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+
+Case ID: case08 
+Total valid pairs: 33 
+Total invalid pairs: 31 
+
+Session Details:
+  Session case08_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case08_S02 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+  Session case08_S03 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case08_S04 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+
+Case ID: case09 
+Total valid pairs: 38 
+Total invalid pairs: 26 
+
+Session Details:
+  Session case09_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case09_S02 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case09_S03 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case09_S04 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+
+Case ID: case10 
+Total valid pairs: 42 
+Total invalid pairs: 22 
+
+Session Details:
+  Session case10_S01 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case10_S02 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+  Session case10_S03 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+  Session case10_S04 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+
+Case ID: case11 
+Total valid pairs: 32 
+Total invalid pairs: 32 
+
+Session Details:
+  Session case11_S01 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case11_S02 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+  Session case11_S03 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+  Session case11_S04 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+
+Case ID: case12 
+Total valid pairs: 29 
+Total invalid pairs: 35 
+
+Session Details:
+  Session case12_S01 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+  Session case12_S02 :
+    Valid pairs: 5 
+    Invalid pairs: 11 
+  Session case12_S03 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+  Session case12_S04 :
+    Valid pairs: 8 
+    Invalid pairs: 8 
+
+Case ID: case13 
+Total valid pairs: 40 
+Total invalid pairs: 24 
+
+Session Details:
+  Session case13_S01 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case13_S02 :
+    Valid pairs: 9 
+    Invalid pairs: 7 
+  Session case13_S03 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case13_S04 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+
+Case ID: case14 
+Total valid pairs: 39 
+Total invalid pairs: 25 
+
+Session Details:
+  Session case14_S01 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+  Session case14_S02 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case14_S03 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+  Session case14_S04 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+
+Case ID: case15 
+Total valid pairs: 47 
+Total invalid pairs: 17 
+
+Session Details:
+  Session case15_S01 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+  Session case15_S02 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+  Session case15_S03 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+  Session case15_S04 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+
+Case ID: case16 
+Total valid pairs: 40 
+Total invalid pairs: 24 
+
+Session Details:
+  Session case16_S01 :
+    Valid pairs: 11 
+    Invalid pairs: 5 
+  Session case16_S02 :
+    Valid pairs: 12 
+    Invalid pairs: 4 
+  Session case16_S03 :
+    Valid pairs: 7 
+    Invalid pairs: 9 
+  Session case16_S04 :
+    Valid pairs: 10 
+    Invalid pairs: 6 
+
+
+------------------------------------
+
+Choice Analysis:
+--------------
+
+Case ID: case01 
+Total choices:
+  Neither: 32 
+  Sustainable: 12 
+  Unsustainable: 20 
+  Both: 0 
+
+Session Details:
+  Session case01_S01 :
+    Neither: 7 
+    Sustainable: 3 
+    Unsustainable: 6 
+    Both: 0 
+  Session case01_S02 :
+    Neither: 13 
+    Sustainable: 1 
+    Unsustainable: 2 
+    Both: 0 
+  Session case01_S03 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+  Session case01_S04 :
+    Neither: 5 
+    Sustainable: 4 
+    Unsustainable: 7 
+    Both: 0 
+
+Case ID: case02 
+Total choices:
+  Neither: 33 
+  Sustainable: 10 
+  Unsustainable: 21 
+  Both: 0 
+
+Session Details:
+  Session case02_S01 :
+    Neither: 9 
+    Sustainable: 1 
+    Unsustainable: 6 
+    Both: 0 
+  Session case02_S02 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+  Session case02_S03 :
+    Neither: 8 
+    Sustainable: 3 
+    Unsustainable: 5 
+    Both: 0 
+  Session case02_S04 :
+    Neither: 9 
+    Sustainable: 2 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case03 
+Total choices:
+  Neither: 27 
+  Sustainable: 13 
+  Unsustainable: 24 
+  Both: 0 
+
+Session Details:
+  Session case03_S01 :
+    Neither: 7 
+    Sustainable: 3 
+    Unsustainable: 6 
+    Both: 0 
+  Session case03_S02 :
+    Neither: 6 
+    Sustainable: 3 
+    Unsustainable: 7 
+    Both: 0 
+  Session case03_S03 :
+    Neither: 7 
+    Sustainable: 3 
+    Unsustainable: 6 
+    Both: 0 
+  Session case03_S04 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case04 
+Total choices:
+  Neither: 33 
+  Sustainable: 12 
+  Unsustainable: 19 
+  Both: 0 
+
+Session Details:
+  Session case04_S01 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+  Session case04_S02 :
+    Neither: 9 
+    Sustainable: 2 
+    Unsustainable: 5 
+    Both: 0 
+  Session case04_S03 :
+    Neither: 11 
+    Sustainable: 2 
+    Unsustainable: 3 
+    Both: 0 
+  Session case04_S04 :
+    Neither: 6 
+    Sustainable: 4 
+    Unsustainable: 6 
+    Both: 0 
+
+Case ID: case05 
+Total choices:
+  Neither: 34 
+  Sustainable: 11 
+  Unsustainable: 16 
+  Both: 3 
+
+Session Details:
+  Session case05_S01 :
+    Neither: 8 
+    Sustainable: 3 
+    Unsustainable: 4 
+    Both: 1 
+  Session case05_S02 :
+    Neither: 6 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 1 
+  Session case05_S03 :
+    Neither: 6 
+    Sustainable: 3 
+    Unsustainable: 6 
+    Both: 1 
+  Session case05_S04 :
+    Neither: 14 
+    Sustainable: 1 
+    Unsustainable: 1 
+    Both: 0 
+
+Case ID: case06 
+Total choices:
+  Neither: 27 
+  Sustainable: 17 
+  Unsustainable: 20 
+  Both: 0 
+
+Session Details:
+  Session case06_S01 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+  Session case06_S02 :
+    Neither: 5 
+    Sustainable: 5 
+    Unsustainable: 6 
+    Both: 0 
+  Session case06_S03 :
+    Neither: 11 
+    Sustainable: 2 
+    Unsustainable: 3 
+    Both: 0 
+  Session case06_S04 :
+    Neither: 4 
+    Sustainable: 6 
+    Unsustainable: 6 
+    Both: 0 
+
+Case ID: case07 
+Total choices:
+  Neither: 21 
+  Sustainable: 21 
+  Unsustainable: 22 
+  Both: 0 
+
+Session Details:
+  Session case07_S01 :
+    Neither: 5 
+    Sustainable: 5 
+    Unsustainable: 6 
+    Both: 0 
+  Session case07_S02 :
+    Neither: 5 
+    Sustainable: 5 
+    Unsustainable: 6 
+    Both: 0 
+  Session case07_S03 :
+    Neither: 5 
+    Sustainable: 6 
+    Unsustainable: 5 
+    Both: 0 
+  Session case07_S04 :
+    Neither: 6 
+    Sustainable: 5 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case08 
+Total choices:
+  Neither: 31 
+  Sustainable: 12 
+  Unsustainable: 17 
+  Both: 4 
+
+Session Details:
+  Session case08_S01 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 4 
+    Both: 1 
+  Session case08_S02 :
+    Neither: 9 
+    Sustainable: 2 
+    Unsustainable: 4 
+    Both: 1 
+  Session case08_S03 :
+    Neither: 6 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 1 
+  Session case08_S04 :
+    Neither: 9 
+    Sustainable: 2 
+    Unsustainable: 4 
+    Both: 1 
+
+Case ID: case09 
+Total choices:
+  Neither: 26 
+  Sustainable: 21 
+  Unsustainable: 17 
+  Both: 0 
+
+Session Details:
+  Session case09_S01 :
+    Neither: 7 
+    Sustainable: 5 
+    Unsustainable: 4 
+    Both: 0 
+  Session case09_S02 :
+    Neither: 7 
+    Sustainable: 5 
+    Unsustainable: 4 
+    Both: 0 
+  Session case09_S03 :
+    Neither: 7 
+    Sustainable: 5 
+    Unsustainable: 4 
+    Both: 0 
+  Session case09_S04 :
+    Neither: 5 
+    Sustainable: 6 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case10 
+Total choices:
+  Neither: 22 
+  Sustainable: 20 
+  Unsustainable: 22 
+  Both: 0 
+
+Session Details:
+  Session case10_S01 :
+    Neither: 5 
+    Sustainable: 5 
+    Unsustainable: 6 
+    Both: 0 
+  Session case10_S02 :
+    Neither: 8 
+    Sustainable: 4 
+    Unsustainable: 4 
+    Both: 0 
+  Session case10_S03 :
+    Neither: 4 
+    Sustainable: 5 
+    Unsustainable: 7 
+    Both: 0 
+  Session case10_S04 :
+    Neither: 5 
+    Sustainable: 6 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case11 
+Total choices:
+  Neither: 32 
+  Sustainable: 15 
+  Unsustainable: 17 
+  Both: 0 
+
+Session Details:
+  Session case11_S01 :
+    Neither: 6 
+    Sustainable: 4 
+    Unsustainable: 6 
+    Both: 0 
+  Session case11_S02 :
+    Neither: 8 
+    Sustainable: 3 
+    Unsustainable: 5 
+    Both: 0 
+  Session case11_S03 :
+    Neither: 9 
+    Sustainable: 4 
+    Unsustainable: 3 
+    Both: 0 
+  Session case11_S04 :
+    Neither: 9 
+    Sustainable: 4 
+    Unsustainable: 3 
+    Both: 0 
+
+Case ID: case12 
+Total choices:
+  Neither: 35 
+  Sustainable: 19 
+  Unsustainable: 10 
+  Both: 0 
+
+Session Details:
+  Session case12_S01 :
+    Neither: 8 
+    Sustainable: 5 
+    Unsustainable: 3 
+    Both: 0 
+  Session case12_S02 :
+    Neither: 11 
+    Sustainable: 4 
+    Unsustainable: 1 
+    Both: 0 
+  Session case12_S03 :
+    Neither: 8 
+    Sustainable: 5 
+    Unsustainable: 3 
+    Both: 0 
+  Session case12_S04 :
+    Neither: 8 
+    Sustainable: 5 
+    Unsustainable: 3 
+    Both: 0 
+
+Case ID: case13 
+Total choices:
+  Neither: 24 
+  Sustainable: 20 
+  Unsustainable: 20 
+  Both: 0 
+
+Session Details:
+  Session case13_S01 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+  Session case13_S02 :
+    Neither: 7 
+    Sustainable: 4 
+    Unsustainable: 5 
+    Both: 0 
+  Session case13_S03 :
+    Neither: 6 
+    Sustainable: 5 
+    Unsustainable: 5 
+    Both: 0 
+  Session case13_S04 :
+    Neither: 4 
+    Sustainable: 7 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case14 
+Total choices:
+  Neither: 25 
+  Sustainable: 20 
+  Unsustainable: 18 
+  Both: 1 
+
+Session Details:
+  Session case14_S01 :
+    Neither: 9 
+    Sustainable: 2 
+    Unsustainable: 4 
+    Both: 1 
+  Session case14_S02 :
+    Neither: 5 
+    Sustainable: 7 
+    Unsustainable: 4 
+    Both: 0 
+  Session case14_S03 :
+    Neither: 6 
+    Sustainable: 5 
+    Unsustainable: 5 
+    Both: 0 
+  Session case14_S04 :
+    Neither: 5 
+    Sustainable: 6 
+    Unsustainable: 5 
+    Both: 0 
+
+Case ID: case15 
+Total choices:
+  Neither: 17 
+  Sustainable: 29 
+  Unsustainable: 18 
+  Both: 0 
+
+Session Details:
+  Session case15_S01 :
+    Neither: 4 
+    Sustainable: 6 
+    Unsustainable: 6 
+    Both: 0 
+  Session case15_S02 :
+    Neither: 4 
+    Sustainable: 8 
+    Unsustainable: 4 
+    Both: 0 
+  Session case15_S03 :
+    Neither: 4 
+    Sustainable: 8 
+    Unsustainable: 4 
+    Both: 0 
+  Session case15_S04 :
+    Neither: 5 
+    Sustainable: 7 
+    Unsustainable: 4 
+    Both: 0 
+
+Case ID: case16 
+Total choices:
+  Neither: 24 
+  Sustainable: 19 
+  Unsustainable: 21 
+  Both: 0 
+
+Session Details:
+  Session case16_S01 :
+    Neither: 5 
+    Sustainable: 5 
+    Unsustainable: 6 
+    Both: 0 
+  Session case16_S02 :
+    Neither: 4 
+    Sustainable: 6 
+    Unsustainable: 6 
+    Both: 0 
+  Session case16_S03 :
+    Neither: 9 
+    Sustainable: 4 
+    Unsustainable: 3 
+    Both: 0 
+  Session case16_S04 :
+    Neither: 6 
+    Sustainable: 4 
+    Unsustainable: 6 
+    Both: 0 
+
+
+***DIGTECH***
+
+Choice Analysis:
+--------------
+
+Case ID: case01 
+Total choices:
+  Neither: 19 
+  Sustainable: 2 
+  Unsustainable: 3 
+  Both: 0 
+
+Session Details:
+  Session case01_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case01_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case01_S03 :
+    Neither: 3 
+    Sustainable: 1 
+    Unsustainable: 2 
+    Both: 0 
+  Session case01_S04 :
+    Neither: 4 
+    Sustainable: 1 
+    Unsustainable: 1 
+    Both: 0 
+
+Case ID: case02 
+Total choices:
+  Neither: 24 
+  Sustainable: 0 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case02_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case02_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case02_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case02_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case03 
+Total choices:
+  Neither: 22 
+  Sustainable: 1 
+  Unsustainable: 1 
+  Both: 0 
+
+Session Details:
+  Session case03_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case03_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case03_S03 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case03_S04 :
+    Neither: 5 
+    Sustainable: 0 
+    Unsustainable: 1 
+    Both: 0 
+
+Case ID: case04 
+Total choices:
+  Neither: 22 
+  Sustainable: 2 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case04_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case04_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case04_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case04_S04 :
+    Neither: 4 
+    Sustainable: 2 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case05 
+Total choices:
+  Neither: 21 
+  Sustainable: 2 
+  Unsustainable: 1 
+  Both: 0 
+
+Session Details:
+  Session case05_S01 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case05_S02 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case05_S03 :
+    Neither: 5 
+    Sustainable: 0 
+    Unsustainable: 1 
+    Both: 0 
+  Session case05_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case06 
+Total choices:
+  Neither: 22 
+  Sustainable: 1 
+  Unsustainable: 1 
+  Both: 0 
+
+Session Details:
+  Session case06_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case06_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case06_S03 :
+    Neither: 4 
+    Sustainable: 1 
+    Unsustainable: 1 
+    Both: 0 
+  Session case06_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case07 
+Total choices:
+  Neither: 23 
+  Sustainable: 1 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case07_S01 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case07_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case07_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case07_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case08 
+Total choices:
+  Neither: 20 
+  Sustainable: 2 
+  Unsustainable: 2 
+  Both: 0 
+
+Session Details:
+  Session case08_S01 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case08_S02 :
+    Neither: 5 
+    Sustainable: 0 
+    Unsustainable: 1 
+    Both: 0 
+  Session case08_S03 :
+    Neither: 5 
+    Sustainable: 0 
+    Unsustainable: 1 
+    Both: 0 
+  Session case08_S04 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case09 
+Total choices:
+  Neither: 21 
+  Sustainable: 3 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case09_S01 :
+    Neither: 4 
+    Sustainable: 2 
+    Unsustainable: 0 
+    Both: 0 
+  Session case09_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case09_S03 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case09_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case10 
+Total choices:
+  Neither: 24 
+  Sustainable: 0 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case10_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case10_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case10_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case10_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case11 
+Total choices:
+  Neither: 24 
+  Sustainable: 0 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case11_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case11_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case11_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case11_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case12 
+Total choices:
+  Neither: 24 
+  Sustainable: 0 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case12_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case12_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case12_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case12_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case13 
+Total choices:
+  Neither: 23 
+  Sustainable: 1 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case13_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case13_S02 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case13_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case13_S04 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case14 
+Total choices:
+  Neither: 22 
+  Sustainable: 2 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case14_S01 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case14_S02 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case14_S03 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case14_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case15 
+Total choices:
+  Neither: 21 
+  Sustainable: 3 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case15_S01 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case15_S02 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case15_S03 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case15_S04 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+
+Case ID: case16 
+Total choices:
+  Neither: 21 
+  Sustainable: 3 
+  Unsustainable: 0 
+  Both: 0 
+
+Session Details:
+  Session case16_S01 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case16_S02 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 
+  Session case16_S03 :
+    Neither: 6 
+    Sustainable: 0 
+    Unsustainable: 0 
+    Both: 0 
+  Session case16_S04 :
+    Neither: 5 
+    Sustainable: 1 
+    Unsustainable: 0 
+    Both: 0 

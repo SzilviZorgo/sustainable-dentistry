@@ -1,0 +1,95 @@
+[[EAvailable->Measured||Affect||8]]
+[[AQuality->Measured||Affect||7]]
+[[PMotivation->Measured||Affect||7]]
+[[ACost->Measured||Affect||5]]
+[[PEducation->PMotivation||Affect||5]]
+[[EClinic->Measured||Affect||4]]
+[[ACost->EClinic||Affect||4]]
+[[DValue->Measured||Affect||4]]
+[[EAvailable->ACost||Manifest||3]]
+[[AQuality->NotMeasured||Affect||3]]
+[[ESupport->Measured||Affect||3]]
+[[EAvailable->AQuality||Analogue||3]]
+[[AOutdated->Measured||Manifest||2]]
+[[ACost->EAvailable||Affect||2]]
+[[PTrust->Measured||Affect||2]]
+[[ACost->DValue||Analogue||2]]
+[[ACost->NotMeasured||Affect||2]]
+[[PEducation->Measured||Affect||2]]
+[[EClinic->DValue||Manifest||2]]
+[[AEfficiency->ACost||Analogue||2]]
+[[ELaw->AQuality||Analogue||2]]
+[[AEfficiency->DValue||Analogue||2]]
+[[DSit->DValue||Affect||2]]
+[[DSit->Measured||Affect||2]]
+[[EAvailable->NotMeasured||Affect||2]]
+[[AEfficiency->Measured||Affect||2]]
+[[ACost->EOthers||Affect||2]]
+[[EClinic->NotMeasured||Affect||2]]
+[[ACost->PMotivation||Affect||2]]
+[[EClinic->AOutdated||Affect||1]]
+[[AOutdated->PTrust||Affect||1]]
+[[EAvailable->AEfficiency||Analogue||1]]
+[[DValue->EOthers||Analogue||1]]
+[[ELaw->ACost||Affect||1]]
+[[PEducation->PTrust||Manifest||1]]
+[[EAvailable->AOutdated||Manifest||1]]
+[[EOthers->PEducation||Affect||1]]
+[[DValue->ABenefit||Analogue||1]]
+[[EOthers->ACost||Affect||1]]
+[[EClinic->AEfficiency||Manifest||1]]
+[[PTrust->PMotivation||Affect||1]]
+[[ABenefit->ACost||Analogue||1]]
+[[ACost->NotMeasured||Analogue||1]]
+[[AEfficiency->NotMeasured||Affect||1]]
+[[Measured->PTrust||Affect||1]]
+[[DValue->PMotivation||Analogue||1]]
+[[ESupport->PEducation||Affect||1]]
+[[ELaw->Measured||Affect||1]]
+[[ESupport->EClinic||Man||1]]
+[[ELaw->DSit||Affect||1]]
+[[ESupport->NotMeasured||Affect||1]]
+[[ESupport->PMotivation||Analogue||1]]
+[[EOthers->PMotivation||Affect||1]]
+[[AEfficiency->AQuality||Analogue||1]]
+[[ESupport->ACost||Analogue||1]]
+[[DValue->AEfficiency||Analogue||1]]
+[[AEfficiency->EOthers||Affect||1]]
+[[EOthers->Measured||Affect||1]]
+[[DValue->EOthers||Affect||1]]
+[[EClinic->DValue||Affect||1]]
+[[DValue->DPersonal||Analogue||1]]
+[[AQuality->DValue||Affect||1]]
+[[EAvailable->EClinic||Manifest||1]]
+[[AEfficiency->EClinic||Affect||1]]
+[[EOthers->ACost||Manifest||1]]
+[[ERegional->EClinic||Affect||1]]
+[[EOthers->ABenefit||Analogue||1]]
+[[DValue->NotMeasured||Affect||1]]
+[[ACost->PMotivation||Manifest||1]]
+[[ERegional->ACost||Affect||1]]
+[[ERegional->EOthers||Manifest||1]]
+[[EClinic->ACost||Affect||1]]
+[[DValue->ACost||Analogue||1]]
+[[ABenefit->Measured||Affect||1]]
+[[AEfficiency->NotMeasured||Manifest||1]]
+[[AEfficiency->Measured||Analogue||1]]
+[[PMotivation->Measured||Manifest||1]]
+
+
+---
+ROCK_network:
+  edges:
+    -
+      type: Analogue
+      color: black
+      style: solid
+    -
+      type: Manifest
+      color: "#BB0000"
+    -
+      type: Affect
+      color: blue
+      style: dashed
+      arrowhead: invempty
+---

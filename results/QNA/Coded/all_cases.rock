@@ -1,0 +1,913 @@
+[[cid=case1]] 
+ 
+
+ 
+
+ I: Na igen. Szerinted hogyan tudnád csökkenteni a munkád környezeti terhelését és hajlandó lennél-e ennek érdekében változásokat alkalmazni?  
+
+C: Ez egy nagyon jó kérdés, mert ugye az egyszer használatos dolgokról szól itt minden. Dolgoztam régen olyan helyen, ahol üvegpohár volt kitéve a műanyag transzparens pohár helyett, és mindenki hőzöngött, hogy úristen, milyen undorító az egész. De tulajdonképpen, hogyha most visszagondolok rá, ebből a szempontból megvizsgálva ez egy jövőbe mutató fogászat volt. Most az infekciókontrollt hagyjuk, végső soron miért ne lehetne lefertőtleníteni egy üvegpoharat, de hát igen, úgyhogy volt egy ilyen tapasztalásom is. Nem tudom őszintén megmondani a választ erre, hogy hogyan lehetne lecsökkenteni a szakmának a környezeti terhelését. Addig, amíg egyszer használatos dolgokkal dolgozunk, és az infekciókontroll nyilván inkább előtérben van, addig ez szerintem nem lesz megoldható. Én úgy gondolom, egyébként az előbb említett helyen, ott például a partedlit is törölgették. Undorító volt. De hát ez volt, hát nem tudtam vele mit csinálni. Nem én voltam a főnök, ilyen volt. De ott nem keletkezett például műanyag pohárhulladék sem, és nem keletkezett műanyag partedli hulladék sem.  [[AOutdated->Measured||Man_mat]] [[EClinic->AOutdated||Aff_mat]] [[AQuality->Measured||Aff_mat]] 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után?  
+
+C: Hát a fő akadály az infekciókontroll, az egyértelmű. Ma már, még a '60-as, '70-es években tök jó volt, hogy ugye a cilinder-ampullás fecskendőben felszívták ugyanúgy a lidokaint, ugyanabban a fecskendőben, és csak a tűt cserélték jobb esetben, de hát ezt ma már, ezt nem lehet megcsinálni. Ezt nem lehet megcsinálni. Én az infekciókontrollt gondolom a mi szakmánkban az elsődleges akadályának, annak, hogy ne legyen ennyi hulladék.  [[AQuality->Measured||Aff_mat]] 
+
+I: Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus?  
+
+C: Hát hogyha lennének olyan lehetőségek, persze megfizethető lehetőségek, akkor igen. Tehát azt értem, hogy mit tudom én, most nem a műanyag fecskendőt, injekciós fecskendőt, meg nem a gumikesztyűt, de hogyha nem tudom, mit dobálunk még el, például a partedlit, ha ki lehet valahogy úgy fertőtleníteni, akkor miért dobáljuk el, vagy hogyha az üvegpoharak. Én használnék üvegpoharat, hogyha tudnám azt, hogy el tudom fertőtleníteni, hogy ez nem probléma, csak itt a páciens oldala kérdőjeles még, hogy mennyire néznék a páciensek jó szemmel, hogy a '80-as évekből üvegpohár van kirakva neki.  [[ACost->EAvailable||Aff_mat]] [[AOutdated->PTrust||Aff_mat]] 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet?  
+
+C: Mi az akadálya, hogy nem annyira állunk rá erre? Szerintem az idő hiánya, ez a legelső. Ez a legelső szerintem, és én hiszem azt, hogy mondjuk ennél másabb, vagy több akadályon is, tehát nem a hozzáállással van a baj én szerintem, hanem inkább ezzel, hogy nincs rá lehetőség, nincs rá idő.  [[EAvailable->AEfficiency||Ana_prev]] 
+
+I: Rendben. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkenthetik, a fogorvos újabb prevenciós beavatkozásokat javasol.  
+
+C: Én úgy gondolom, hogy azért a magánfogorvosi rendelőknél, -be járó pácienseknek anyagi áldozatot tesznek azért, hogy ellátást kapjanak, és rendben legyen az ő közötti állapotuk. Szerintem nem hinném, hogy a pácienseknél rosszul venné ki magát az, hogy egy preventív szemléletet beépítve az egész kezelésbe, rávezessük a pácienst arra, hogy miért szükséges mondjuk eggyel több fogkőszedés évente, mint amennyit ő eddig ő elvégeztetett. Talán rávezető magatartással rá lehet venni a pácienst. Igen, törekednék arra, még akkor is, ha a páciensnél ez úgy jön le elsőként, hogy le akarjuk rántani még egy depurálásra, de szerintem a nagy többség 99%-a, én úgy gondolom, hogy meg lehet értetni azt. Főleg az esetleg az idős generációnál ez lehet probléma, mert azt én megfigyeltem, még a pályám elején volt ez gyakoribb, de még mindig megfigyelem, hogy egy idős páciens eljött, megcsináltatta a rágóképességet, visszaállítottuk, és összetapsolta a kezeit. Jól végezte a dolgát, viszontlátásra, innentől kezdve fogat mosnom sem kell. Ez ma már nem jellemző szerintem. Úgyhogy szerintem egy magánrendeletben simán el lehet adni azt, hogy miért kell a prevencióra egyes, X adott páciensnek mondjuk egy kis plusz anyagi ráfordítást, meg időráfordítást még beleraknia. Úgyhogy igen, tehát én ezt promotálnám a páciensnél.  [[PTrust->Measured||Aff_prev]] [[PMotivation->Measured||Aff_prev]] 
+
+I: Világos. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk?  
+
+C: Szerintem az első az az anyagi. Aztán a második az idegenkedés az újtól, főleg idősebb kollégák, akik nem, akik az egyetemen sem találkoztak még ezzel. Talán a második az idegenkedés az újtól, a harmadiknak mondanám, a berögződéseknek nehéz átformálása, tehát ez ugyanaz, mint az idegenkedés az újtól. Szerintem ezek. Ezek. [[ACost->DValue||Ana_dig]] 
+
+I: Világos. Törekednél-e annak ellenére a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Próbálnék törekedni, mindig amikor bevezetnek egy új technológiát, például a digitális technológia és a fogászatban is egy ilyen storyline volt. Elején vannak az innovátorok, akik ugye az az egy-két százalék, aki minden újra nyitott, hát a nagy többség nem ebbe tartozik, nyilván én sem, ők bevezették, aztán utána jöttek a korai követők. Azt hiszem, hogy erre van egy grafikon, nem tudom, aztán késői követők, és aztán a nagy tömeg. Én azt gondolom, hogy szerintem, amikor már a tömeg fázisba ér egy újítás, akkor miért ne lehetne törekedni? Persze, igen, igen.  
+
+[[DValue->EOthers||Ana_dig]] 
+
+[[cid=case2]] 
+
+ 
+
+ c: Hát figyelj! Ez azért egy nagyon érdekes téma, mert hogyha az ember csak az egyszer használatos dolgokra gondol, és mondjuk a műanyagokra, illetve mikroműanyagokra, de csak gondoljunk a fogászati tömőanyagokra, mint mikroműanyag. Tehát most ugye hogy? Tehát én is ezeket elolvastam nagyjából, hogy miről szól ez az egész, és abban maradtam, hogy ez hogy? Tehát most akkor visszatérünk a többször használatos tűkhöz? Mert ugye most egyszer használatos műanyag tű van. Régen volt, amikor én gyerek voltam, te még akkor bőven nem éltél. Én még láttam akkor, láttam akkor, mert ugye úgy adták még be ezeket az oltásokat, nem voltak ilyen, hanem kifőzték a tűket, meg ugye a fecskendőket, ilyen üvegfecskendők voltak. Tehát most számomra ez most egy megfoghatatlan kategória, hogy ezt hogy lehet megvalósítani, megmondom őszintén. Hogy? Hát arra törekedtünk eddig, hogy ezek mind ne legyenek, hogy amit lehet, mindent váltsunk le egyszer használatos eszközökkel. Legyen az pohár, régen voltak ezek a fém nyálszívók, nem tudom, hogy te láttad-e azokat a fém nyálszívókat, lehet, hogy te még láttad. Tehát ugye, hogy minden, mert ott is mondták, hogy ó, hát azokat se lehet teljesen jól sterilizálni. Tehát azt gondolom, hogy törekedtünk, eddig törekedtünk arra, hogy minden, ami létezik, egyszer használatos legyen, hogy megy a kukába. Most akkor ezt nem tudom összeegyeztetni a kettőt. [[AOutdated->Measured||Man_mat]] [[EAvailable->Measured||Aff_mat]] 
+
+I: Igen. 
+
+c: Ez egy róka fogta csuka. 
+
+C: Hát ugye most nem tudom, hogy milyen eszközökről, mert tárgyakról beszélünk, mert amit beszéltünk, hogy ugye pohár, nyálszívó, kendők, meg stb stb nyilvánvaló, hogy azok egyszer használatosak, tehát ott nem tudsz mit csinálni. Tehát itt azért többé-kevésbé adottak a dolgok. Nyilván egy fúrót nem fogsz eldobni egy használat után, mert eleve aranyárban vannak a fúrók. Nyilván egy matricát nem fogsz eldobni egy használat után, mert azok se olcsóak. Tehát itt szerintem azért nem tudom, hogy ki az, aki mondjuk így pazarol, de most túl azon, hogy én is nem a saját rendelésemet viszem, hanem ugye személyes közreműködőként, de én nem gondolom, hogy pazarlóan csinálnék bármit. De ugye ennek vannak korlátai. Azért ennek durva korlátai vannak, hogy már csak anyagi értelemben is, hogy van, amit ugye még ha akar, tehát többször kell, hogy használjál, mert különben nem tudod elkérni annak is az árát, nem tudod beépíteni az árba. [[ACost->NotMeasured||Aff_mat]]
+
+I: Igen. Itt most a kérdések fixek. Lehet, hogy a mostani kérdésre már válaszoltál részben. Elnézést kérek, de még egyszer megkérdezem, hogy mindenkitől ugyanazokat a kérdéseket ugyanabban a sorrendben kérdezzem, hogy szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjál el egy-egy kezelés után. 
+
+C: Árak. [[ACost->Measured||Aff_mat]] 
+
+I: Ühüm. 
+
+C: Árak. [[ACost->Measured||Aff_mat]] 
+
+I: Azaz? 
+
+C: Hát azaz nem tudsz mindent eldobni, tehát azért mondom, hogy nyilván az egyszer használatos dolgokat eldobod, de nyilván, hogy egyebeket, fúrókat, matricákat, eszközöket, amit használsz, tehát ezeket nem tudod kiváltani egyszer használatossal. Az meg elképzelhetetlen, hogy minden egyes betegnél újat vegyél, meg nincs is értelme. Tehát akkor megint csak egy szennyezést, egy fölösleges plusz terhelést okozol a környezetednek, hogyha olyan szinten nincs semminek az újrafelhasználását az ember addig használja, nyilván megfelelő sterilitás mellett azokat az eszközöket, gondolok kézi eszközökre, fúrókra, turbinákra, tehát ezeket használod többször, mert nem is tudnád megcsinálni azt, hogy egyszer használatossá tedd.Ha meg egyszer használatossá tennéd, akkor meg plusz környezetterhelést végzel.  [[EAvailable->Measured||Aff_mat]] 
+
+I: Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Hát nem. 
+
+ I: Mennyire jelentős neked a munkahelyed megválasztásakor vagy a munkakörnyezeted megválasztásakor, pontosabban, hogy legyen újrahasznosítható hulladékot és vegyi hulladékot gyűjtő tároló? 
+
+C: Hát mondjuk ez azért nem hülyeség, mert hogyha az ember belegondol abba, hogy ugye most mit csinálunk? Hát most ugye a lefolyóba engedjük bele ezeket a vegyi hulladékokat. Annak minden konzekvenciájával. De ugyanakkor meg, ha úgy teszed fel a kérdést, hogy most akkor gyűjtöd, hol gyűjtöd, hogy gyűjtöd, ki szállítja el? Az is pénzbe fog kerülni. Hát az is pénzbe fog kerülni. Azt mind be kell építeni, akkor a működési költségeidbe beépül az áraidba. [[ACost->NotMeasured||Aff_mat]] 
+
+I: Hát igen.  
+
+C: Úgyhogy sajnos a dolgok azok nem fehérek, feketék. Én úgy gondolom, hogy nyilván ez lenne a megfelelő, hogyha a vegyi anyagokat mondjuk nem a hálózatba engedné bele az ember, de hát ezt hogy tudod megvalósítani? És mondom, ez jelentős plusz költséggel jár. Ugyanúgy, ahogy egyébként kötelez, most már nem is tudom, négy éve, vagy öt éve, vagy nem tudom én, hány éve, kábé így, ugye az amalgám szeparátor, de hogyha te ezt a Lege Artist csinálod úgy, hogy kihívod ezt a céget, aki ezekkel foglalkozik, vagy ugye a szerelőt, aki ezeket. Tehát ott épp mondja a barátnőm, elvileg ott akkor mindent újrakezd. Ez kb. egy ilyen 70 ezer forint. 
+[[EAvailable->ACost||Man_mat]] [[ELaw->ACost||Aff_mat]] 
+
+I: Azta. 
+
+C: Igen. Tehát mondta, hogy mit csinál a szerelő, kijön, kiszedi és lemossa a lefolyóba. Tehát ugye most ez így zajlik, ez az amalgám szeparátor. 
+
+I: Az szép. 
+
+C: Egyébként állandóan meg kéne venned ezt az amalgám szeparátort. 
+
+ C: Hát figyelj! A kisfiú, a testvére, a bátyja volt nálam először még a múlt héten, hát már ott is borzasztó állapotok uralkodtak a szájban. Én végig szoktam menni egyébként ezen, én veszem a fáradtságot, kikérdezem, hogy hogy mos fogat, hány szor mos fogat, miket eszik, miket iszik, végigmegyek, milyen fogkrémet használ. Na mindegy. Lényeg a lényeg, hogy ja, egyébként most rászoktunk arra, hogy nem egy, nem kettő, hanem most már nagyobb számban. Hányszor mos a gyerekfogat? Válasz. Hát azért általában egyszer azért az megvan. És akkor nézek ki a fejemből. Mondom, egyszer? De mondom, akkor ezek szerint az se mindig? Hát többnyire megvan. Na most csodálkozunk, hogy a gyereknek 6-7-8 éves korában konkrétan rohad a szája. A kis hugica, ő tegnap vagy mikor kedden volt nálam a kis három éves, három. Négyesei, ötösei, frontfoga, kráter. Kráter. Úgyhogy a gyereknek, mint tudjuk, általában két éves korára jön ki az összes tejfoga. Ugye itt nem arról van szó, hogy öt év alatt, hanem meg tudjuk kábé saccolni, hogy mennyi idő alatt történik mindez. Amin ki voltam akadva. Persze nyilván a kislány sem most kétszer fogat. Most már törekednek rá, hogy felhomályosítottuk őket. Milyen fogkrémet használnak? Fluoridmenteset. És mondom. 
+
+I: Itt van a macska elásva, vagy a kutya elásva vagy hogy mondják. 
+
+C: Így. Tudod, mennyi van ebből? De várjál, most jön a slusszpoén, most jön a slusszpoén, és mondom, miért ezt használják? Mert a védőnő ezt mondta. A védőnő ezt mondta. Mondtam neki, hogy ki fogjuk nyomtatni a számlát, legyen kedves elvinni a védőnőnek, hogy szíveskedjen kifizetni.  [[PEducation->PMotivation||Aff_prev]]
+
+I: Uhum. 
+
+C: Tehát most mi van itt? Most a védőnő szembemegy a fogászati ajánlással? Kérdezem én. 
+
+I: Szembe. 
+
+C: Hát ezek szerint. És a három éves kislánynak rohad a szája. Na most egy három éves kislánynak te hogy csinálod? Tök mindegy, kislány, hogy kisfiú, egy hároméves gyereknek te nem tudsz tömést csinálni, mert nem hagyja. És akkor ennek minden konzekvenciája, hogy majd ebbe a szájba előtörnek a maradó fogai, majd a maradó fogak is el fognak szuvasodni, mert hogy ilyen a baktériumflórája a szájnak. Tehát ugye ennek minden-minden konzekvenciája. Tehát azért mondom, hogy én úgy gondolom, hogy én meg azért a [ANONIMIZÁLVA] is, mert ugye a [ANONIMIZÁLVA] is elég sokszor szokta őket így kérdezgetni, amikor én valamit elfelejtek, akkor ő rákérdez. Tehát úgy gondolom, hogy mi azért végigkérdezzük, hogy egyáltalán, még hogyha néha a szülő, hogy mondjam, vegzálásnak veszi, hogy kérdéseket teszel fel neki, csak ugye az embernek el kell mondani, hogy te nem hobbiból kérdezel, hanem szeretnénk megtudni, hogy hogy lehet kiküszöbölni azt, hogy a gyereknek a maradó fogai is áldozatul essenek. Ezt viszont csak nyomozással tudjuk kideríteni, hogy mi áll a dolog hátterében. De mondom, ez most egy teljesen új, hogy a védőnő azt mondta. Eddig csak azt tudtam, hogy a Facebookon ezt írják. [[PEducation->PTrust||Man_prev]]
+
+I: [NEM ÉRTHETŐ 14:22] erről hallottam. 
+
+C: Igen, de most már ott tartunk, hogy a védőnői. Nekem is ez volt a héten a slusszpoénja a dolognak. Hát mondom, megint gazdagodtam egy új információval. 
+
+I: Na ja. 
+
+C: Mondtam, úgy látszik, ki kell adni majd a védőnőknek egy ajánlást, vagy én nem is tudom, hogy ilyen hülyeségeket már ne terjesszenek. Hát régen szájon át adtuk az imaflórt, meg a dentocart a gyerekeknek. [[EAvailable->AOutdated||Man_prev]] 
+
+I: Igen. 
+
+C: Hát most meg ott tartunk, hogy most már a rohadt fogkrémben sem lehet a fluorid, mert fölspannolják a szülőket, hogy ez milyen kártékony, meg minden? Hát azért hagyjuk már! [[PEducation->PMotivation||Aff_prev]]
+
+I: Viccen kívül lehet, nem lenne baj a védőnőknek ilyen tájékoztatás vagy ilyesmi? 
+
+C: Hát igen, azért mondom, hogy te ott vagy a tűz közelében, tehát ez azért is most, hogy így rákérdeztél, mondom, ez így be is ugrott, ami a héten azért eléggé kiverte őszintén szólva a biztosítékot. 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Hát a védőnő ezek szerint akadálya, tehát mondjuk, igen, igen, tehát mondjuk azért a hülyét már ne csináljunk magunkból, legalább az egészségügy berkein belül, hogy a védőnő, vagy urambocsá, gyerekorvos, tehát elkezd ugrálni, hogy akkor most nem kell a fluorid. Tehát akkor itt azért konszenzusra kéne jutni házon belül, idézőjelben mondom, a házon belül, mint az egészségügy, hogy akkor legalább egy irányba menjen ez a lovaskocsi, tehát ne az legyen, hogy a lovak szanaszét húznak, mert annak aztán tényleg semmi értelme nem lesz, és ott nem fogsz eredményt elérni. Én nekem a meglátásom az, hogy igazából gyerekkorban lehet jól megalapozni azt, hogy valakinek egyébként milyen fogazata lesz. Tehát én megkérdeztem az egyik szülőt is egyébként, hogy ne haragudj, mikor mondta, hogy a gyerek, hát hébe-hóba edzés, mondom, ne haragudjon, hogy rákérdezek, de mondom, ön hányszor mos fogat? Ja, hát ő is csak egyszer. Hát mondom, itt van a kutya elhantolva, hogy a gyerek ezt a mintát látja. Tehát ha azt látja, hogy apa, anya és elvileg csak egyszer mos fogat, hát mondom, a gyerek olyan, mint egy kismajom, tehát nézi a szüleit, azokat a mintákat veszi át, tehát ha egy rossz minta van előtte, akkor. [[PEducation->Measured||Aff_prev]] [[EOthers->PEducation||Aff_prev]] 
+
+I: Igen. 
+
+C: Kaphatjuk, ugye? Szabhatjuk a dolgot. Próbálhatjuk ide-oda szabogatni, hogy most akkor még ezt adunk, azt adunk, de hogyha ez az alapvető dolog, hogy a szülők nem megfelelőképpen kezelik ezt az egészet, és nincsenek megfelelő ismeretek birtokában. Mert nincsenek. Mert csodálkozik, hogy miért kell kétszer fogat mosni egy nap. Hát nem is értem. Én mondtam, hogy én a 90-es években gyerekfogászaton kezdtem dolgozni, hát ott nem éreztem ezt, hogy ennyire, hogy ennyire ilyen tájékozatlanok lennének. Elmondtuk, hogy kétszer kell, és akkor mondta, hogy jó, oké, kétszer igen, és megértette. A gyerek reggel rohan, és nem ér rá fogat mosni. Hát most erre mit mondjak? Mondtam, hogy figyeljen, én megértem, hogy támogatni akarják a fogorvosokat, tehát ez is egy módszer. Tiszta Doktor House szoktam egyébként lenni. Én megértem, hogy annyira kedvelik a fogorvosokat, hogy meghirdették a Támogassuk fogorvosunkat akciót, de mondtam, hogy ha meg nem ezt szeretné, hanem azt szeretné, hogy esetleg ezek a fogak tényleg hosszú ideig a gyerek szájában legyenek urambocsá, közel élethosszig elkísérjék. Talán az a kétszer három perc, vagy elektromos fogkefe esetén a kétszer két perc talán nem egy túl nagy áldozat. [[PEducation->Measured||Aff_prev]] 
+
+I: Jogos, igen. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkentheti, ha a fogorvos újabb beavatkozásokat javasol. 
+
+C:Ezt hogy kell érteni egész pontosan? Olvasd föl még egyszer!  
+
+I: Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkentheti, ha a fogorvos újabb beavatkozásokat javasol. 
+
+C: Mármint, hogy prevenciós beavatkozás? 
+
+I: Igen, igen, igen. 
+
+C: Aha. Hát mondjuk engem rohadtul nem érdekel a többi, tehát mondjuk én a beteg érdekében tevékenykedem, tehát nekem most lehet, hogy ez így csúnyán hangzik, de most nem feltétlenül a többi rendelőnek a megsértődése vagy sértődöttsége. Tehát itt ugye a beteg áll a középpontban, nem, a középpontban, nem pedig a többi rendelő, tehát azért az orvoslás. Én értem, hogy a fogászat meg minden, ugye most már egy üzletág is, meg minden, tehát nyilvánvaló. Mondjuk az egy más kérdés, hogy mondjuk az ember ezt hogy tudja kulturált módon lekommunikálni a beteg felé, mert itt inkább azon múlik az egész, hogy te gondolsz valamit, a másik is gondol valamit, ugye? 
+
+I: Igen, igen. 
+
+C: És akkor a beteg meg egyszerűen körmérkőzést játszik a bennmaradásért. Nekem volt most ilyen betegem itt[ANONIMIZÁLVA], aki nem hazudok neked, a saját elmondása szerint az összes [ANONIMIZÁLVA] fogorvost végigjárta. Mindenkihez elment, mindenkitől véleményt kért. 
+
+I: És téged is megtisztelt. 
+
+C: Engem is megtisztelt, igen. És a végén mondtam is neki mondom, én értem, mondom, hogy addig akar menni, amíg valaki nem mondja azt, amit szeretne hallani. De mondom, hogy tőlem ezt nem fogja megkapni. Úgyhogy persze, ugye ilyen is van. Tehát azért mondom, hogy a betegek részéről is van ilyen nyomás az emberen, de azért mondom, hogy elvileg nekünk az orvoslás azért arról szól, hogy mégiscsak a betegnek a jólétét és az egészségét kell szem előtt tartanunk. Mondom, nem feltétlenül a többi fogorvos kollégáét. Az egy más kérdés, hogy ezt kulturáltan le kell tudni kommunikálni. 
+
+I: Zérus. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Nem tudom, engem speciel nem érdekel. Most lehet, hogy már a korom miatt is úgy vagyok vele, hogy már-már az ember nem akar ebbe így belemenni, de én egyébként nem is tartom annyira átütő jelentőségűnek. Én még mindig azért azt látom, hogy sok esetben egy jó fogtechnikus által elkészített váz még mindig sokkal jobb, mint egy lézerszinterezett váz. [[DValue->ABenefit||Ana_dig]]
+
+I: Rendben. 
+
+C: Nyilván ez sok mindentől függ, tehát nyilván, hogy a fogtechnikai tervezéstől, meg mindentől, tehát nem tudom, hogy hol tudnak elcsúszni dolgok, de nekem az elmúlt harminc évben sokkal kevesebb gondom volt a vázakkal, mint például most, amióta lézerszinterezetteket. 
+
+I: Igen? 
+
+C: Igen, abszolút, igen. Abszolút. 
+
+I: Akkor mondom a kérdések során, hogy egy fix, meg kell ezt is kérdeznem, hogy törekednél-e annak ellenére a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Nem. 
+
+I: Oké. 
+
+[[cid=case3]]
+
+ 
+
+ I: És szerinted hogyan tudnád a munkádnak a környezeti terhelését csökkenteni, illetve hajlandó lennél-e ezeket a változásokat alkalmazni? 
+
+C: Így, hogy most csökkenteni mivel lehetne, tehát nem nagyon jutnak eszembe ötletek, illetve most első körben, hogy én jelenleg ugye alkalmazottként vagyok, tehát, hogy ezek a költségek nem engem terhelnek, így ebben nem hiszem, hogy ha egy rendelőben bárhol dolgoznék, nem nekem kellene meghozni ezt a döntést igazából. Úgyhogy, nyilván cél, tehát jó lenne egy fenntarthatóbbá, de itt azért ez a fogászatban egy érdekes határvonal, tehát az infekciókontroll miatt, hogy hogyan lehet, mi az, amit a beteg például otthonról hozott egy poharat, tehát az mennyire tiszta s a többi. [[EClinic->DValue||Man_mat]] [[EClinic->Measured||Aff_mat]] [[AQuality->Measured||Aff_mat]]
+
+I: Hogy a meglátásod szerint milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után? 
+
+Tudom, nehéz kérdéseket hoztam. 
+
+C: Te most újragondolsz? Mik azok, amiket te eldobásra gondoltál, hogy ilyet lehet kérdezni?  
+
+I: Aha, például amiket mondtál, mondtál jó pár példát, korábban.  
+
+C: Eszközökben minél több olyan eszközt igazából azok által, amiket lehet többször újra használni, tehát hogy sterilizálhatóak legyenek, meg fémeszközök, gondolom. De viszont vannak olyanok, amik meg egyszer használatosak. Tehát, hogy mondjuk egy olyan tömést készítesz, egy matricát, azt már nem tudod, hogyha meghajlítod, megizéled, hozzáérsz a fúróval, bármi, akkor az kuka, onnantól kezdve nem lehet használni. [[AQuality->NotMeasured||Aff_mat]] 
+
+I: Az igaz. 
+
+C: Hú, hallod. Tehát, hogyha nagyon-nagyon sok mindent akarsz újra használni, akkor az lehet, hogy egy ponton túl átmehet abba, hogy a minőség rovására megy, amit készítesz. 
+
+I: Ez igaz. 
+
+C: Vagy a sterilitásra, vagy az infekció pontra. Szerintem. Igazából most hogyha, ami megoldás lehetne, hogy ha inkább, hogyha mondjuk, amik ilyen műanyag pohár, meg nyálkendő, meg rolni, meg mit tudom én, mondjuk vattarolni is, az meg veszélyes, de hogy mondjuk ezeket, amiket újrahasznosítható anyagból lehetne, vagy valami más felhasználása után, mert nem is a fogászaton belül, de másfele. Tehát, hogy inkább itt a szemétgazdálkodás, vagy a hulladékgazdálkodáson keresztül. Hogy nem mindent egy, például az infekciókontrollos, hogy jobban szelektíven gyűjteni inkább a hulladékot, mondjuk. [[EAvailable->Measured||Aff_mat]]
+
+I: Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Még egyszer a kérdést, törekednél-e arra... 
+
+I: Igen, annak ellenére tárgyak újbóli fogászati felhasználására, hogy infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Tehát nem, az infekciókontrollt helyezném előtérbe. 
+
+I: Akkor meglátásod szerint milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet?  
+
+C: Milyen akadályai vannak ennek? 
+
+I: Igen. 
+
+C: Milyen akadálya? Húha. 
+
+I: Nehéz kérdéseket hoztam. 
+
+C: Hát figyelj, most hogyha nagyon mélyre akarunk menni, az alapokra akarunk menni, tehát itt az embereknek az alapszemlélete, illetve oktatásával, tehát ilyen alapintelligencia. Tehát nagyon nehéz elmagyarázni egy, legtöbb embernek, hogy ez miért fontos, és megértetni vele, és azt meg, hogy erre meg idő nincsen, tehát hogy ennyi idő. Nagyon sok ember a saját hibáiból tanul, nem más kárán. És csak akkor onnantól kezdve, például egy héten egy történet, vagy egy beteg, öt éve mondják neki, hogy a bölcsességfogát ki kell húzni, mert már öt éve mondják ezt. Hát már teljesen leszuvasodott, úgyhogy most, nem fáj neki, úgyhogy még mindig bent tartja. Úgyhogy bennem fáj. De, hogy ott van, látszik a röntgenen, szar lesz, szájsebész kell, hogy kiszedje, de nem, még várja a csodát. [[PMotivation->Measured||Aff_prev]]
+
+I: Sok ilyen van, igen. 
+
+C: Tehát itt az alapszemlélet, meg oktatás, meg fiatalkorban elkezdeni, nem felnőttkorban, nem izé, tehát nagyon sokan nem tudnak most sem fogat mosni, tehát nagyon-nagyon-nagyon korán kellene elkezdeni, és hogyha ezt, jelenleg szerintem azt kell, hogy két korosztályban elkezdeni, tehát fiatalon a gyereket is, meg a szülőt is, mind a kettőt. Mert ez is van egy csomó, hogy jönnek gyerekek is, és ott is, hogy anyuka se tudja megmosni a fogát, és a gyereket szidja, hogy ő meg miért nem tudja megmosni. Ez a gyerek meg 6 éves, nem lehet elvárni. [[PEducation->PMotivation||Aff_prev]]
+
+I: Világos. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkenti, ha a fogorvos újabb beavatkozásokat javasol? 
+
+C: Szerintem, nem teljesen érthető a kérdés. 
+
+I: Hogy a, például ha a páciens eljön az akut panaszával, és te újabb beavatkozásokat javasolsz, hogy a fogkövet le kell szedni, stb, stb. És hogy ennek ellenére, hogy ez a egyes páciensek bizalmát csökkentheti, törekednél-e mégis a prevenciós szemlélet erősítésére? 
+
+C: A betegnek, hogyha eljön a fogfájásával, és én azt mondom, hogy a fogkövét is le kell szedni a magánrendelésen, hogy ez csökkenti-e a bizalmat felém? 
+
+I: Hát, hogy csökkentheti a bizalmát, de hogy ennek ellenére törekednél arra, hogy... 
+
+C: Hát ezt mindig szoktam mondani. 
+
+I: Igen? 
+
+C: Persze. Sőt, hogyha így jön első alkalomra, és hogyha nem olyan akut, például valami töméscsere, de fogköves ott a foga, akkor először simán visszaküldöm a dentálhigiénikushoz, hogy leszedjék a fogkövét, utána csináljuk meg a tömést.  
+
+I: Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Hát rendelőfüggő igazából. Tehát, hogy egyrészt ezeknek a dolgoknak a beruházási költsége elég magas, hogyha egy rendelőben több generáció dolgozik, például nálunk ez a helyzet, hogy nem annyira, tehát nincs annyira kéznél igazából, hogyha használni is akarnám, irtózatosan nagy macera, meg időveszteség az, mire az asszisztensek azt oda beállítják, meg nem erre van beállva a rendelő, hogy ez az elsődleges. És ez akkor érné meg, hogyha ugye a rendelőben minden fogorvos használná, viszont hogy van egy idősebb generációs fogorvos, aki sose fogja használni, akkor ott már nagyon kisebb a megtérülési költsége, és nem érdemes azokra beruházni, meg nem is lesz annyira dinamikus erre. És hogyha nincsen ennyire sok, érted. [[ACost->EClinic||Aff_dig]] [[EClinic->Measured||Aff_dig]] [[EOthers->ACost||Aff_dig]] [[AEfficiency->ACost||Ana_dig]]
+
+I: Értem, értem. Törekednél-e annak ellenére a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak hagyományos megoldásoknál, és ugye fogorvosoknak új készségeket kell elsajátítaniuk a használatához? 
+
+C: Az időráfordítással, meg az anyagi részével szerintem nem lenne probléma. Itt a betegek kezelése közben az, hogy ott mennyire tud ez dinamikusan történni. Tehát, ha tényleg az van, hogy tíz percet kell várni, míg a laptopot előhozzák, meg a szkennert, mit tudom én, a beteggel, és addig malmozni, az nem kézen fog, nem praktikus, úgyhogy meg már jön a következő. Úgy kell kialakítani, a rendelőnek is magának, hogy ott minden kéznél legyen, csak az meg, igen. [[EClinic->AEfficiency||Man_dig]]
+
+[[cid=case4]]
+ 
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el. 
+
+I: Egy-egy kezelés után? Vagy tárgyak, amiket kezelés után el szoktunk dobni. 
+
+C: Passzt is lehet mondani, ugye? 
+
+I: Persze, abszolút. 
+
+C: Akkor passz. 
+
+I: Rendben. Törekednél-e annak ellenére - tárgyak újbóli fogászati felhasználására - hogy ez infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Nem igazán.  
+
+I: Akkor, milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Ez már megint egy olyan kérdés, ezt valahogy jobban, hogy hogyan lehetne jobban a prevencióra fókuszálni. 
+
+I: Igen. 
+
+C: Nem, ez már megint egy passz. 
+
+I: És törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelőkben a páciensek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Fogalmazás és bizalom kiépítés kérdése a dolog. Én azért a prevencióra hangsúlyt fektetnék. 
+
+I: Rendben. A fogalmazás és bizalom alatt mit értesz pontosan? 
+
+C: Tehát a bizalmat fel tudja mérni az ember, hogy mekkora bizalommal van feléje a páciense. És ha olyan jellegű dologról van szó prevencióban, ami, hogy úgy mondjam, eltántoríthatná, azt megfelelően fogalmazva, hogy mondjam, be lehet cserkészni, vagy arra lehet irányítani a figyelmét a páciensnek. [[PTrust->PMotivation||Aff_prev]]
+
+I: És akkor a szokásos kérdés, hogy szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzuk? 
+
+C: Ez már megint egy olyan, hogy mi az akadálya annak. 
+
+I: Igen, igen. 
+
+C: Azt mondom, hogy még úgy látom, nem eléggé kiforrott, még nagyon gyorsan változik, és még nagyon sokba kerül. [[ABenefit->ACost||Ana_dig]]
+
+I: Világos. Törekedni rá annak ellenére, hogy digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Én a kivárós típus vagyok, én nem törekednék rá. 
+
+[[cid=case5]] 
+
+ 
+
+ I: Szerinted hogyan lehetne csökkenteni a munkádnak a környezeti terhelését, és hajlandó lennél-e ennek érdekében változtatásokat alkalmazni? 
+
+C: Folyamatosan, tehát a rendelőben ez irányba haladunk, tehát a digitalizáció felé, és ezeket, a másik, tehát az egyszer használatos eszközöket azt nem lehet névvel kiváltani, tehát én dolgoztam annak idején még, mikor az üvegpoharat neomagnolba áztattuk, tehát nem eldobható poharak voltak, hát kevésbé volt higiénikus. [[AQuality->Measured||Aff_mat]] [[DValue->Measured||Aff_dig]]
+
+I: Igen. 
+
+C: Meg ilyen lemosható nyálkendők voltak. Szerintem az a mostani vírushelyzetben, meg nem igazán, nem igazán jó irányba megy.  [[AQuality->Measured||Aff_mat]]
+
+ I: Ühüm. Rendben. A meglátásod szerint más fogorvosokhoz képest mekkora hangsúlyt helyezel arra, hogy kevesebb eszközt és tárgyat dobjál el egy-egy kezelés után? 
+
+C: Én úgy gondolom, hogy a szakma szabályai szerint járok el. Nem tudom, hogy a többi kolléga mivel használ kevesebb eldobandó eszközt, tehát, amit ugye vannak a hatósági előírások, azokat be kell tartani, tehát az ellen nem lehet szembemenni. Én ezt így mondom. De szerintem nagyjából átlagosan annyi eszközt használok, meg dobok el, mint a többi kolléga. 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után? 
+
+C: Mint mondtam, a hatósági előírások, meg a járványhelyzet. [[ELaw->AQuality||Ana_mat]]
+
+I: Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? Igen, amit mondtam itt a kérdések fixek, akkor is, hogyha úgy érzed, hogy. Még egyszer?  
+
+C: Nem.  
+
+ I: Nem. Oké. Mennyire jelentős a munkakörnyezeted megválasztásakor, hogy legyen újrahasznosítható hulladékot és vegyi hulladékot gyűjtő tároló, és miért? 
+
+C: Hát erre törekszem, hogy ami újrahasznosítható hulladék, azokat külön gyűjtjük. Egyrészt a környezeti terhelés miatt, másrészt ugye a szeméttároló, tehát a kommunális hulladék, illetve az újrahasznosítható hulladéknak az anyagi okai is vannak, kevesebb kommunális hulladékot termelünk. 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Magát a szemléletnek abban nem látok akadályt, tehát ez csak az embernek a fejében dől el, meg a, itt szokássá kell fejleszteni a prevenciót a mindennapi tevékenységek során. [[PEducation->PMotivation||Aff_prev]]
+
+I: Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkenthet, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Szerintem ez nem csökkenti a bizalmát, hanem emeli a páciensek bizalmát, és én azt veszem észre, hogy szívesen veszik igénybe, és jó néven veszik azt, hogyha elköltenek a rendelőben igen sok pénzt, elkészül egy drága fokmű a szájukba, azt ők jó néven veszik, ha mi segítünk annak az állagát megőrizni. 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? A fogászatban, mármint. 
+
+C: Hát egyrészt nagyon nagy a kezdeti befektetés, tehát anyagi akadályai vannak, de onnantól, ha az ember megtanulja használni, és a mindennapi élete meg a munkája részévé válik, akkor megkönnyíti a munkát, és egy idő után olcsóbbá válik. [[AEfficiency->ACost||Ana_dig]]
+
+I: Rendben. Utolsó kérdés, törekednél-e annak ellenére a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Igen, törekszem is. 
+
+[[cid=case6]]  
+
+ 
+
+ C: Találkoztam vele, az igazából, ha titeket nem ismernélek, nem találkoztam volna vele. Azokon a szakmai fórumokon, amiken én mozgok, ott ezek a témák egyáltalán nem kerültek még el eddig elő, vagy én járok nem jó helyre. A másik kérdés az az, hogy volt-e olyan dolog, ami a tőletek megtudott információ, és azt próbáltam ebbe építeni. Azt hiszem, hogy az ésszerű, veszélyes hulladék, amúgy is egy viszonylag magas költséget jelent. [Szia, gyere csak nyugodtan!] Magas költséget jelent a veszélyes hulladék elszállítása a rendelőből, így például annak az optimalizált gyűjtése az szándékoltan megvalósul tulajdonképpen a rendelőben. Ezen kívül olyan nagyon más, nem tudom, mit mondhatnék még. Nem váltottunk papír pohárra, meg ilyenek. [[ACost->DValue||Ana_mat]]
+
+I: Szerinted hogyan lehetne csökkenteni a munkád környezeti terhelését, és hajlandó lennél-e ennek érdekében változtatásokat alkalmazni?  
+
+C: Szerintem rengeteg egyszer használatos dolgot használunk, abban mindenféleképpen egy anyag és szemléletváltással szerintem lehetne a környezeti terhelést csökkenteni. Erre még eddig jó megoldást nem láttam, de ha versenyképes lenne a korábbi megoldással árban, akkor viszont biztos, hogy szorgalmaznám annak a változását, bevezetését. [[DValue->Measured||Aff_mat]]   [[EAvailable->ACost||Man_mat]] 
+
+ I: A meglátásod szerint mennyire használod ki azokat a lehetőségeket, amelyekkel csökkentheted az eszközök és tárgyak eldobását egy-egy kezelés során? 
+
+C: Az talán még rosszabbul, biztos, hogy lehetne még a szemetet még jobban megszelektálni például, jobban szétválogatni, még akár annak árán is, hogy ez újabb szemétgyűjtő konténerek kihelyezését jelenti. [[ACost->NotMeasured||Ana_mat]]
+
+I: Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után? 
+
+C: Milyen akadályaid? 
+
+I: Igen. 
+
+C: Az idő az egyik. Nagyon kevés idő marad ezeknek az eszközöknek a szelektálására. Két beteg közötti gyors cserénél erre nincs idő, hogy szelektáljunk. Ez egy akadály. A másik akadálya az a motiválatlanság, a személyzet motiválatlansága, tehát nincsenek sem jutalmazva, sem megszidva az esetleges figyelmetlenségért, és nincsenek ellenőrizve sem. Tehát még az ideológiai szándék sincs meg. Én ezt a két komolyabb kategóriát mondanám. [[AEfficiency->DValue||Ana_mat]] [[AEfficiency->NotMeasured||Aff_mat]]
+
+I: Világos, törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Ha mondjuk valamilyen eldobhatós, hát nem, inkább úgy fogalmaznék, hogy például egy olyan eszköz, amit egyébként rendszerint eldobunk, de tisztíthatósága folytán lenne lehetőség arra, hogy újra használjuk, elképzelhetőnek tartom, de a korábbi gyakorlatból bevett üvegpohár alkalmazását én higiéniátlannak tartom, mint páciens. Én nem szeretném a pácienseimet erre kényszeríteni, hogy egy olyan üvegpohárból igyanak, ami izé. Nem tudom, hogy mennyivel jobb egy eleve műanyag pohár elmosása, nem tudom, ezen nem gondolkodtam, inkább azt mondom.
+[[EAvailable->Measured||Aff_mat]] [[Measured->PTrust||Aff_mat]]
+
+ I: Tehát mennyire jelentős a munkakörnyezet megválasztásakor, hogy legyen újrahasznosítható hulladékot és vegyi hulladékot gyűjtő tároló és miért? 
+
+C: Hát a munkahelyválasztásnál ez nem szempont. Nem szempont. Az egyik munkahelyet választott, a másik nem választott a részemről. A választott munkahelyem, tehát a saját munkahelyemnél ott vezető tulajdonosként azt mondom, hogy sokkal inkább egy ár-érték arány megtalálása a célom, mintsem az elvek kergetése. A másik munkahelyemen pedig semmi beleszólásom nincs, tehát nem azért jöttem a klinikára, mert itt másképp gyűjtik a szemetet. [[ACost->DValue||Ana_mat]] 
+
+I: Milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Azt hiszem mindkét oldal alulképzettsége az elsődleges ok, tehát a fogadó és adó oldal képzetlensége, másfelől pedig azt hiszem, hogy van egy olyan néphagyomány nálunk, ami még nem öltött generációs mértéket, tehát amit a svédek megvalósítottak ezelőtt 40-50 évvel, vagy x évvel, ahhoz mi még hozzá sem fogtunk. A prevenció terén való fejlődésünk szerintem alulfinanszírozott. [[DValue->PMotivation||Ana_prev]] [[ESupport->Measured||Aff_prev]] [[ERegional->ESupport||Aff_prev]
+
+I: Itt a néphagyomány alatt a fogorvosok, vagy a páciensek? 
+
+C: Is. Sok fogorvos van még szerintem. Azért most, ha magyarországi átlagot nézünk, és nem Budapestre koncentrálunk, mert nyilván Budapesten teljesen más keresztmetszetet adna egy ilyen vizsgálat. Szerintem országosan nézve még mindig nem a prevenciós szemlélet az, ami jelen van, hanem sokkal inkább a fogpótlás tölti be a szerepet . És ez szerintem befolyásolja azt is, hogy mennyi idő jut a prevencióra. 
+
+[[PMotivation->Measured||Aff_prev]]
+
+I: És a svéd modell alatt mire gondoltál pontosan? 
+
+C: Arra gondoltam, hogyha a prevencióra sokkal nagyobb állami hangsúly fektetődne, akár programok szervezésében, akár oktató kampányok tekintetében, tehát ha maga az edukáció megjelenne ebben a dologban, akkor elképzelhető lenne, hogy egy olyan generáció fel tud nőni, amelyik megérti, elfogadja a prevenció jelentőségét, de én erre nem látok kormányzati szándékot, és azt sem látom, hogy a prevenciónak az egyetem vagy, tehát a szakma részéről sem látom azt, hogy komolyan vennék a prevenciót. Nem hiszem, hogy elég mennyiségű fogászati edukáció folyik az általános iskolákban például. [[ESupport->PEducation||Aff_prev]] [[ESupport->Measured||Aff_prev]] [[EClinic->Measured||Aff_prev]] [[ELaw->Measured||Aff_prev]]
+
+I: Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelő pácienseinek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Igen. Arra gondolom igen, szerintem nagyon sokat jelent az, hogy egy orvos nem pusztán, tehát nem kell, hogy elfogadja a pácienseinek a véleményét. Sokkal inkább jobb, ha véleményformáló szerepe van. Úgyis van olyan páciens, akinek nem felel meg az, hogy egy orvos bizonyos témáról mit gondol. Úgy mondanám, hogy minden zsáknak megvan a maga foltja. Ha ő nem ért azzal a fajta edukációval, vagy azzal a fajta szemlélettel egyet, amit az orvos képviselt, akkor elment volna így is, úgy is előbb-utóbb. És úgy is lesz olyan páciens, aki pedig egyet fog érteni ezzel a szemlélettel. Tehát inkább azt mondanám, hogy csak egy kontraszelektív hatása van a pacientúrára, de valójában nem csökkenti.  
+
+I: Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk?  
+
+C: Hát egyértelmű akadálya szerintem az, hogy a rendelőfinanszírozásba bevont állami támogatások aránytalan elosztása nem teszi lehetővé azt, hogy például egy budapesti Pest megyei rendelő ezekre pályázzon. Ez szerintem mindenképpen gond, hiszen azt gondolom, hogy ennek a technológiának nem pusztán az a szerepe, hogy pénzt lehet vele keresni, vagy nem lehet vele pénzt keresni, hanem van egy olyan szemszög is, amikor azt mondom, hogy a szakmának a fejlődéséhez hozzátartozik az, hogy egy új technológiát milyen gyorsan tud bevezetni. Tehát lehet, hogy valaki, tehát kell olyan szívsebész is, aki a Városmajorban a legmodernebb eszközökhöz ért, és kell olyan szívsebész is, aki [NEM ÉRTHETŐ 13:38] meg tud csinálni egy billentyűműtétet szikével meg érfogóval, de a szikés, érfogós, [NEM ÉRTHETŐ 13:48] embert is ki kell képezni előbb-utóbb a technológiának az izéjére, és hogyha ő abban öregszik meg és abban szocializálódik, akkor nem fog érdeklődni a szakmai újdonságok iránt, tehát összességében véve a szívsebész szakma, hogy ennél a hülye példánál maradjak, szerintem veszít azzal, hogyha ezt a technológiát, nem fektet abba energiát, hogy ezt a technológiát megtanítsa az alacsonyabb képzettségű embereknek. Tehát összességében véve a szakma fejlődését hátráltatja az, hogyha a szakmának bizonyos képviselőit kizárunk ebből a fajta tanulási metódusból. Én így látom, hogy ennek van egy ilyen oldala is, nem pusztán anyagi, még akkor is, hogyha a kormány részéről látom a szándéknak az egyértelmű irányát, és még azt se mondom, hogy nem lehet megérteni, vagy egyetérteni ezzel a szándékkal. De szerintem ezt az oldalát nem vizsgálja és nem szupportálja. 
+[[ESupport->EClinic||Man]] [[DSit->DValue||Aff_dig]] [[ELaw->DSit||Aff_dig]] [[EClinic->Measured||Aff_dig]] [[DSit->Measured||Aff_dig]] 
+
+I: Az utolsó kérdés. Törekednél annak ellenére digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk használatukhoz? 
+
+C: Ha erre lehet, hogy egyértelmű igennel válaszolni, akkor igen. 
+[[cid=case7]] 
+
+ 
+
+ I: Szerinted hogyan tudnád csökkenteni a munkádnak a környezeti terhelését, és hajlandó lennél-e változtatásokat alkalmazni ennek érdekében? 
+
+C: Kevesebb egyszer használatos eszközzel tudnám csökkenteni. Ha lenne olyan alternatíva, mint például tegyük fel bond ecsetekre, vagy akár az ilyen egyszer használatos, nem tudom műtéti felszerelésekre, akkor nyilván nyitott lennék rá, és egyébként próbálkozom is, tehát én direkt nem vásárolok egyszer használatos tálcákat, helyette egy kendővel takarjuk le a lengő tálcát és arra teszem az eszközöket, ami szerintem sokkal környezetkímélőbb, illetve ez egy papír alapú szalvéta, tehát nem termelek felesleges műanyag hulladékot. Meg próbálok annyi egyszer használatos eszközt egyszerre elővenni, kirakni magamnak, amit biztos el fogok használni, tehát próbálok nem abba a hibába esni, hogy mit tudom én, kirakok magamnak több bond ecsetet, és ebből kettőt használok, de a másik három már nem lesz utána eléggé steril ahhoz, hogy másik beteghez felhasználhassam. Úgyhogy egyszerre mindig csak annyit kérek az asszisztenstől, amit biztosan el fogok használni, szerintem ez is ide sorolható a környezettudatossághoz. Egy pácienshez próbálok egy előkét használni, tehát ha mondjuk kiültetem zsibbasztani a beteget, akkor is félreteszem azt az előkét, amit használtam, hogyha az még nem annyira szennyezett, meg jó állapotban van, azt visszateszem rá, amikor visszajön a kezelésre. [[EAvailable->Measured||Aff_mat]] 
+
+ I: Rendben. Meglátásod szerint mennyire használod ki azokat a lehetőségeket, amelyekkel csökkentheted az eszközök és tárgyak eldobását egy-egy kezelés után? 
+
+C: Hát, én úgy gondolom, hogy maximálisan kihasználom, tehát ami egyszer használatos, azt higiéniai szempontok miatt nem tudom többször felhasználni, de hogyha lenne ilyen alternatíva, akkor élnék vele, úgyhogy én úgy gondolom, hogy én maximálisan, ami tőlem telhető, próbálok odafigyelni. [[EAvailable->Measured||Aff_mat]] [[EAvailable->AQuality||Ana_mat]] 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és ágyat dobjunk el egy-egy kezelés után? 
+
+C: Hát ugye, amit előbb is mondtam, ez a sterilitás, ami a legnagyobb akadály. 
+
+I: Rendben. Törekedni rá annak ellenére, hogy a tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Tehát mondjuk, ha tudom, hogy nem tudom egy másik beteget mondjuk potenciálisan veszélynek tehetek ki, akkor is inkább, tehát erre irányul a kérdés? 
+
+I: Akár erre, vagy arra, hogy infekciókontroll szempontjából többet kell tenned, hogy ne fertőzd meg a beteget. Mintha csak egyszerűen eldobó eszközt használnál. 
+
+C: Hát ha mondjuk ilyen egyszer használatos eszközök újrafelhasználásáról beszélnénk mondjuk, én ezt nem feltétlen pártolom. Persze, hogyha olyan dolog, amit le lehet fertőtleníteni, mondjuk tegyük fel, egy műanyag eszköz, ami kiáztatható, akkor abszolút. De ha egy olyan eszközről van szó, ami az első használat után, tehát az első használat után romlik a minősége is, azt már nem használom újra. Most például a szekcionált matricákról is beszélek. Hogyha ez olyan minőségben megmarad egy kezelés után, hogy nem gyűrődik és lehet vele még jó kontaktpontot kialakítani, akkor azt el lehet fertőtleníteni, le lehet mosni. Viszont az a baj, hogy olyan matricát használok, ami ultravékony, és ahogy kiszedem a fogközből, az körülbelül használhatatlan lesz egy másik páciensnél. De például ott van ez az omnimatrix, ez a körkörös matrica, az is ugye hivatalosan egyszer használatos, rá is van írva, azt én többször szoktam használni. Tehát hogyha nincsen rajta gyűrődés, sérülés, szakadás, akkor én az asszisztenst megkérem, hogy szedje le róla a tömőanyagot, meg a bondot, mossa el, és akkor azt többször használjuk. [[AQuality->NotMeasured||Aff_mat]]
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Szerintem ez az oktatásban keresendő főként. Az a baj, hogy egyrészt ugye a magyar betegekből kiindulva nagyon sokan félnek a fogorvosoktól, mert gyerekkorukban érte őket egy trauma, legalábbis a legtöbb páciens azt mondja, hogy a gyerekfogorvos az megalapozta neki a jövőjét. Illetve az óvodában, iskolában annyira nincs elterjedve ez a prevenciós szemlélet. Tehát hogy szerintem kellene kötelezően bevezetni akár biológiaórán, akár így az óvodákban, hogy igenis legyen egy fogorvos, vagy legyen egy dentálhigiénikus, aki bemegy, és akár ilyen játékos formában, de megtanítja a gyerekeket helyesen fogat mosni, mert ez nagyon sok helyen kimarad. Úgyhogy egyrészt az oktatást kéne megreformálni szerintem, másrészt viszont minden fogorvosnak kötelessége kellene, hogy legyen, hogy a pácienseit oktassa. [[PEducation->PMotivation||Aff_prev]] 
+
+I: Rendben. Ehhez a témához az utolsó kérdés. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Tehát, hogy az a kérdés, hogyha én. 
+
+I: Hogy a páciens eljön egy panasszal, de ezen kívül még prevenciós beavatkozásokat javasolsz. 
+
+C: Ja, ez nálam szinte mindig így van, hogy eljön a páciens fogfájással, és akkor a végén még mondom, hogy egyébként a fogkövet le kellene szedni, meg egyébként megtanítanám fogat mosni. Szerintem ez inkább növeli a bizalmat. Minden a kommunikáción múlik. Tehát hogyha bejön egy páciens, azt mondja, hogy fel van dagadva az arcom, nagyon fáj, és te azt mondod, hogy le kéne szedni a fogkövet, akkor az úgy csökkenti a bizalmat. De ha elmagyarázod neki, hogy igen, ez a foga azért fáj, mert be van gyulladva, és gyökérkezelni fogom, és meg fog szűnni a panasz. És egyébként még észrevettem, hogy fogköve is van, az szerintem inkább növeli a bizalmat. Tehát itt a pácienssel való kommunikáció, előadásmódban van a kulcs, úgy gondolom. 
+
+I: Világos. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Egyértelműen az ára. Tehát én nagyon-nagyon szeretnék a rendelőmbe ilyen - minek hívják ezt, CAD/CAM rendszert, ilyen rendelői chairside rendszert, meg oral scannert is nagyon szeretnék, de nagyon sok, sok-sok millióba kerül, úgyhogy ezt nem tudom most jelenleg megengedni. Úgyhogy egyértelműen az ár. [[ACost->NotMeasured||Aff_dig]]
+
+I: Világos. Törekednél-e annak ellenére, hogy a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Persze, én voltam rengeteg ilyen tanfolyamon, meg ugye voltam külföldi továbbképzésen is, például az oral scannerrel kapcsolatban, úgyhogy abszolút törekszem, meg az egyetemen is próbálom használni, tehát ott is van szkennerünk, hogyha olyan van, akkor én szkennelek. Tehát ahol elérhető, én nagyon szívesen használom, bármilyen oktatáson nagyon szívesen részt veszek. Nálam sajnos így az anyagi okok az akadály. 
+[[cid=case8]] 
+
+ 
+
+ C: Alapvetően nem dobunk el tárgyakat. Vagy ilyen egyszer használatos dolgokra gondolsz? 
+
+I: Például. 
+
+C: Nem, csak ami nyilván, ami nagyon kötelező vagy muszáj, tehát például egy lenyomatot kinyomni, tehát egy folyékony lenyomatot kinyomni, tudod, csőrön keresztül, azt muszáj. Tehát azt nem lehet megkerülni. Tehát fémet nem lehet használni, amit mondjuk sterilizálsz, mert beleköt. [[EAvailable->Measured||Aff_mat]]
+
+I: Igen. Rendben. A meglátásod szerint... 
+
+C: Biztos, hogy próbálkoznék amúgy. Biztos próbálkoznék, hogyha volna rá valami olyan mód, hogy bizonyos dolgokat így ki lehet küszöbölni. Csak bevallom azt is, hogy én nem igazán tudom, hogy... 
+
+I: Bocsánat, itt a legutolsónál a kapcsolat kicsit megszakadt, meg tudnád ismételni, kérlek? 
+
+C: Nem nagyon tudom azt, hogy mivel lehetne ezeket a dolgokat helyettesíteni. Tehát én hajlandó lennék mondjuk változtatni bizonyos dolgokon, hogyha felajánlanak alternatívát, hogy hogyan lehet. [[EAvailable->Measured||Aff_mat]]
+
+I: Világos. Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után? 
+
+C: Az, hogy nem tudjuk hogy felhasználni. Tehát például pont egy ilyen lenyomat pisztolyos dolgom, hogy ragasztók, amiknek két komponensnek össze kell keverednie, ahhoz vannak anyag alkatrészek, amit használnunk kell. Ez téged, amíg nem találnak ki olyan megoldást, hogy vagy egy komponens legyen, és akkor csak egy kis papíron, szoktunk olyat is csinálni, hogy papíron megkeverjük, csak ez egy bizonyos pontig működik, egy ponton túl pedig már nem működik ott, mert használni kell.  
+
+I: Értem. Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus?  
+
+C: [NEM ÉRTHETŐ 04:16] 
+
+I: Tessék?  
+
+C: [NEM ÉRTHETŐ 04:18]Tehát akkor minden kuka, hogyha sterilitásról van szó. 
+
+I: Megint megkérlek, hogy ismételd meg, ne haragudj. 
+
+C: [NEM ÉRTHETŐ 04:32] 
+
+I: Most valamiért olyan, minthogyha egy barlangból beszélnél, hogy valami nagyon halkan hallak. 
+
+C: Igen, én is nagyon halkan hallak. Tehát azt mondtam, hogy a sterilitás az első, tehát a sterilitás rovására semmit nem áldoznék fel. [[AQuality->Measured||Aff_mat]]
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Az oktatás. 
+
+I: Mármint a.
+
+C: Hogyha jobb lenne a. Az alap edukálása a szájüreg tisztántartásának, a fogak tisztításának, addig szerintem semmi nem fog változni, amíg ez valahol gyermekkorban el nem indul egy preventív oktatás ezzel kapcsolatban. [[PEducation->Measured||Aff_prev]]
+
+I: Rendben, törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Nem, nem. Szerintem a páciensek hálásak annak, hogyha preventív jelleggel valamit, tehát azért csinálunk valamit, hogy számukra ne alakulhasson ki egy bármilyen betegség. 
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Anyagi. Ezek azért elég költséges eszközök. [[ACost->Measured||Aff_dig]]
+
+I: Rendben. Törekednél-e annak ellenére digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Igen, én szeretném. 
+[[cid=case9]]  
+
+ 
+
+ I: világos. És szerinted hogyan tudnád csökkenteni a munkádnak a környezeti terhelését, és hajlandó lennél-e ennek érdekében változtatásokat alkalmazni? 
+
+C: Igazából hogyan tudnánk csökkenteni? Erre mondjál valamit, mert szerintem sehogyan. Én úgy gondolom, hogy fertőtleníteni kell, és hogy papírtörölköző, gumikesztyű, tehát a környezeti lábnyomunk viszonylag magas, de ezen nem lehet változtatni, mert ez a munkaveszélyes. [[EAvailable->AQuality||Ana_mat]]
+
+I: Világos. A meglátásod... 
+
+C: Lebomló papír, a gumikesztyű, azt még nem tudom, hogy föltalálták-e már, amit lebontanak a baktériumok, amik képesek műanyagbontásra. [[EAvailable->NotMeasured||Aff_mat]]
+
+I: Aha. Hú, azt én sem tudom, hogy létezik-e ilyen, de érdekes találmány lenne. 
+
+C: Azért mondom, hogy igazából nem látok sehol semmilyen lehetőséget erre a környezeti lábnyomcsökkentésre. 
+
+I: Rendben. És szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után. 
+
+C: Nem látok semmilyen akadályt, egyszerűen előírások vannak, hogy biztonságosan dolgozzunk és az egyszer használatos dolgokat használjuk. Tehát egyszerűen ez nem akadály, ez egy alap. [[ELaw->AQuality||Ana_mat]]
+
+I: Mindjárt a másik témakörhöz érünk, még kettő kérdés van ehhez, törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Nem törekednék. 
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Hát elég kemény véleményem van. Tehát azt gondolom, hogy a NEAK rendeléseken nem ingyenességet kellene a kedves páciensnek adni, hanem ahhoz kellene kötni, ha járt fogorvoshoz szűrésre, tehát törődött önmagával, évente legalább egyszer, akkor járjon neki az ingyenesség, de hogyha 2-3-4-5-10 éve nem volt fogorvosnál, akkor fizesse ki azt a tömést, mert nagyon sokban tehet arról, hogy hogyan néz ki a szája. Tehát egy felelősebb, öngondoskodó páciens szemléletre volna szükség. [[ESupport->NotMeasured||Aff_prev]] [[ESupport->PMotivation||Ana_prev]]
+
+I: És a nem NEAK rendeléseken? Tehát a magánrendeléseken? 
+
+C: Mit mondjak a magánrendelésekre? 
+
+I: Hogy ott ezen kívül látsz-e még plusz akadályt a prevenciós szemlélet erősítésére? 
+
+C: Akadályt? Egyáltalán, oda egy motivált beteg érkezik általában, és együttműködő, kicsit jobb a helyzet. 
+
+I: És törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magánfogorvosi rendelők pácienseinek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: De miért csökkentené a bizalmunkat? Nem értem a kérdést sem. 
+
+I: Hát ugye jön a fogorvoshoz A problémával, A panasszal, és te ezen kívül javasolsz prevenciós beavatkozásokat. 
+
+C: Annyi mindent látunk, hogy szükséges javasolni. 
+
+ C: Sok digitális technológia van, amit az állami rendelőkben nem nagyon tudsz megfinanszírozni, hogy vegyél egy szkennert, annak egy nagyon komoly összege van. Röntgen az bizonyos beavatkozásoknál kötelező, mint például a gyökérkezelés, tehát azt használom, hogy a digitális technológia, a beteg életút követése, az is annak számít, az még végül is most már teljesen olajozottan működik. Az adminisztrációja, a betegadminisztráció is. Röntgenen kívül én nem használok más digitális technológiát. [[ESupport->Measured||Aff_dig]] [[ACost->Measured||Aff_dig]]
+
+I: Törekednél-e annak ellenére digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Nem a készségekre megalázó dolgok bevezetésével van a gond, hanem az anyagi hiánnyal. 
+[[cid=case10]]  
+ 
+
+ 
+
+I: Milyen akadályai lehetnek egyébként annak, hogy kevesebb eszközt és tárgyat dobjál el egy-egy kezelés után? 
+
+C: Az infekciókontrollt gondolnám, mert nyilván a műanyag egyszer használatos szívót nem fújod be még egyszer. [[AQuality->Measured||Aff_mat]]
+
+I: Rendben. 
+
+C: Leginkább ez. 
+
+I: Most jön az hogy a kérdés sor az fix, és lehet hogy már válaszoltál. 
+
+C: Persze. 
+
+I: Törekednél-e annak ellenére a tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Nem. 
+
+C: Leginkább az általános egészségtudat hiánya, meg a szervezettség hiánya, mert hiába, én meg mi itt 30-an erre figyelünk, hogyha azt mondom neki, hogy figyeljen rá és menjen el a körzeti orvosához vagy fogorvosához, ahol azzal találkozik, hogy durván elhajtják, hogy ne tartsák fel ilyennel, és nyilván ez nem feltétlenül így van, de hallani ilyet, ez nyilván akadálya. [[EOthers->PMotivation||Aff_prev]]
+
+I: Rendben. Mármint, bocsánat, csak az egészségtudatos szemlélet, tehát a páciensek, ugye a körzeti fogorvosok részéről eltetted? 
+
+C: Hát inkább a páciensek részéről. 
+
+I: Rendben. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy egy magánfogorvosi rendelőben csökkentheti a páciensek bizalmát ha a fogorvos újabb vonatkozásokat javasolt prevenciós céllal? 
+
+C: Hát alapvetően azért közgazdász nem vagyok, de nem csak állami, hanem magánegészségügyben is, hanem anyagi megfontolásból javasolja prevenciós céllal, akkor végső soron a páciens is jobban jár. Minekutána egy barázdazárás, olcsóbb, mint egy MOD tömés. 
+
+I: Az igaz. 
+
+C: Nem tartanám magamat ettől vissza. 
+
+I: Értem. A meglátásod szerint mennyire használod ki ezeket a lehetőségeket, melyeket a digitális technológiák biztosítanak a fogorvoslás számára?  
+
+C: Most attól függ, hogy mi a kérdés. Értem, csak attól, hogy lehet szkennelni, de nem biztos, hogy az valami olyan fontos, mint egy lenyomat. Tehát, ha úgy nézem, hogy valamit lehet szkennelni is, meg lenyomatot is venni róla, akkor inkább lenyomatot veszek, mert pontosabbnak találom, de például ízületi diagnosztikában ott kihasználom, meg ott egy plusz segítő tényezőnek tartom, meg igyekszem olyan laborral dolgozni, akik digitálisan terveznek. [[AQuality->Measured||Aff_dig]]
+
+I: Az utolsó kettő kérdés. Milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Mondjuk itt nem én veszem, de nyilván részben az ára, meg nekem sokszor még a pontossága meg a bonyolultsága azért a megszokott és begyakorolt folyamatokhoz képest. [[AEfficiency->AQuality||Ana_dig]]
+
+I: Törekednél-e annak ellenére digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Mondom, attól függ, milyen téren. Tehát minden szemnek maga felé hajlik a keze, ízületi diagnosztika téren igen, áldoznék rá. Lenyomatvételnél nem. Részben, azt hiszem ezt a választ tudom rá adni. [[ACost->Measured||Aff_dig]]
+[[cid=case11]]  
+
+ 
+
+ C: Amit muszáj, azt nyilván kidobok, de mondjuk próbálok odafigyelni arra, hogy abból az eszközből mondjuk, ami eldobható, kevesebbet használják, vagy tudod, hogy ne így őrült módjára. Hát figyelek egy picit, igen, mondhatni. [[EAvailable->Measured||Aff_mat]]
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjál el egy-egy kezelés után? 
+
+C: Milyen akadályai lehetnek, hogy kevesebb? Ezt ki tudod feltenni nekem, hogy mikre gondoltok? Vagy most egy fertőző betegség esetén, vagy milyen? 
+
+I: Hogyha van egy eszköz, hát vagy a kérdést megfordítva, miért nem tudunk kevesebb eszközt eldobni, mint amennyit eldobunk? Mi az oka annak, hogy olyan sok eszközt eldobunk? 
+
+C: Hát, figyelj, szerintem most őszinte leszek. Én most ugye NEAK finanszírozott rendelőben vagyok, vagy [NEM ÉRTHETŐ 04:31] még csak. Azért szerintem így a finanszírozásnak is nagy szerepe van ebben, legalábbis meglátásom szerint. [[ESupport->Measured||Aff_mat]]
+
+I: Itt mire gondolsz pontosan? Vagy például? 
+
+C: Hát, hogy szerintem a környezettudatosabb eszközök azok drágábbak általában. Én nem gondolom. [[ESupport->ACost||Ana_mat]]
+
+I: Igen, igen, világos. Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából viszont kevésbé praktikus? 
+
+C: Hát én nem. Nekem az egy fontos szempont. 
+
+I: Világos. Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet?  
+
+C: Hogy milyen akadályai lehetnek annak?  
+
+I: Igen. 
+
+C: Hát nem tudom, hogy milyen akadályai lehetnek. Szerintem azért eléggé nyitottak mindenhol ezekre a preventív szemléletekre. 
+
+I: Bocsánat, az előző kérdésre, hogy élethelyzetre, ott mire gondoltál? 
+
+C: Hát én most itt arra gondoltam, hogy most két kisgyerekem van, és amúgy nagyon szívesen elmennék ugye ilyen egészségnapokra, óvodákba, iskolákba, csak ezt most jelenleg nem tudom megtenni. Hogy nincs nagyszülői segítség, és akkor ez fér bele most nekem. [[DSit>Measured||Aff_prev]]
+
+I: Világos, világos. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy magán fogorvosi rendelőkben a páciensek bizalmát csökkentheti, ha újabb prevenciós beavatkozásokat javasolsz? 
+
+C: Páciensek bizalmát csökkenti, hogyha én prevenciós, itt mire gondolsz? 
+
+I: Hogy eljött A problémával, te meg azt mondod, hogy ehelyett még B meg C-dolog kell.  
+
+C: Én nem tudom, én ezen nem, tehát hogy nekem fontosabb az, tehát fontosabb a preventív szemlélet, mint mondjuk az, hogy mindenáron megtartsuk a pácienst. Szóval, hogy ez az alfája és az omegája az egésznek, hogy edukáljuk a pácienseket, mert hiába csinálnak neki egy tök szép bármit, pótlást vagy bármilyen tömést, hogyha utána nem tud szépen mosni, akkor igazából nem volt értelme. Úgyhogy én mindenképpen előtérbe helyezem. 
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Hát szerintem pénzügyi az mindenképpen, például egy ilyen NEAK által finanszírozott rendelőben, én azt gondolom. Én csak erre gondolok.  [[ESupport->ACost||Ana_dig]
+
+I: Törekednél-e annak ellenére digitális technológiák alkalmazására, hogy ezzel kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Hát igen, az biztos, hogy drágábbak. Az, hogy új készségeket kellene kialakítani, az számomra nem jelentene egyébként problémát. 
+[[cid=case12]]  
+ 
+
+ C: Amúgy ez a fogászat ez szerintem nagyon egy nem környezetbarát szakma. Szerintem amennyire tudjuk, annyira le van csökkentve. Mert a higiéniára viszont nagyon figyelni kell, hogy az egyik páciensről a másikra ne vigyünk át dolgokat. Úgyhogy szerintem amit tudunk, már most is megteszünk, és amit mondjuk, kitalálnak, az meg annyira nagyon-nagyon költséges a rendelőnek, hogy szerintem a legtöbb helyen ugyanazok a dolgok, amik már beváltak, azok maradnak. Mert ami jelenleg jó, azt szerintem még nem tudják költséghatékonyabban jobbá tenni.  [[EAvailable->AQuality||Ana_mat]] [[DValue->AEfficiency||Ana_mat]]
+
+I: Rendben. Bocsánat, a kérdéssor az fix, akkor is, ha lehet, hogy már megválaszoltad a következő kérdést is, hogy szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjál el egy-egy kezelés után? 
+
+C: Milyen akadálya? 
+
+I: Akadálya, igen. 
+
+C: Annak, hogy kevesebb eszközt dobjak el? Mármint arra gondolsz, hogy ilyen bond ecset, meg vattarolni, meg ilyenek? 
+
+I: Akár, akár. 
+
+C: Vagy milyen fajta eszközöket? Mert azok az eszközök, amik ugye tartósak, azokat nem dobálom el. Ami meg pazarlós, arra meg tudok figyelni, hogy például mennyi vattarolnit használok, vagy nem tudom, hogyha több fogat tömök, akkor ne 5 bond ecsetet használjak el, meg ilyesmi dolgok. De hogy ennek mi az akadálya, szerintem az akadálya lehet az a figyelmetlenség, vagy hogyha az asszisztenssel nem szinkronban dolgozunk, hogy például a folyamat felénél ő már elpakol, és akkor én mondjuk még egy fogat be akarok tömni, és akkor újra kell kezdeni az egészet, szétpakolni, meg minden, ami egyszer használatos, kvázi két szettet használunk el egy páciensre. [[DValue->AEfficiency||Ana_mat]] [[AEfficiency->Measured||Aff_mat]]
+
+I: Világos. Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Dehogyis! Nem, nagyon-nagyon fontos, hogy vigyázzunk a páciensekre. Úgyhogy nem, semmikor sem. 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Hát hogyha mondjuk időhiány van, vagy hogyha elkezd valaki olyan helyen dolgozni, ami mondjuk ilyen turizmusos téma, hogy jön, itt van egy hetet a páciens és már megy is, és ott nincs nagyon idő arra, amire egy magyar páciensnél például van, hogy elmagyarázd neki, hogy először tisztítani kell, három hetet figyelni, utána megint áttisztítani. Tudod, hogy, mondjuk a paros előkészületek, meg az ilyen fontos dolgok, a regeneratív dolgok azok sokszor időhiány miatt szerintem buknak. [[AEfficiency->EOthers||Aff_prev]]
+
+I: Hogyha szabad egy provokatívat kérdeznem, ezt az időhiányt te is tapasztalod? 
+
+C: Én nem, mert én fogszabályozok, szóval hozzám nem járnak ilyenek. 
+
+I: Világos. 
+
+C: Én arra gondolok, hogy aki csak rövid időre jön, és egyáltalán nem tartózkodik annyi időt az országban, hogy te meg tudd neki csinálni, mert vagy külföldön él és itthon akarja intézni ezeket a dolgait, de annyi időt meg nem szán rá, meg annyit nem is repked haza, hogy ezt minőségileg meg lehessen rendesen úgy csinálni, mintha folyamatosan itt lenne. [[PMotivation->Measured||Aff_prev]]
+
+I: Világos. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy magán fogorvosi rendelőkben a páciensek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Szerintem ez nem csökkenti. Ennek az a lényege, hogy ő megértse azt, hogy én azért tanítom őt fogat mosni, mert ez fontos. És addig, amíg ő nem tud fogat mosni, én bármit csinálok, az nem lesz annyira tartós, mintha ő azt tisztán tudja tartani. Úgyhogy hogy volt a tézis eleje? Törekednék-e? 
+
+I: Annak ellenére a prevenciós szemlélet erősítésére, hogy a páciensek bizalmát csökkentheti, ha újabb prevenciós beavatkozásokat javasolsz? 
+
+C: Hát figyelj, addig javaslom a prevenciós beavatkozásokat, amíg nem jók. Szóval ez nálunk szabály. Ha tetszik neki, ha nem, mert nálunk megvan egy bizonyos standard, amin dolgozni kell, és az a minőség alá mi nem megyünk. Szóval innentől kezdve, ha neki nem tetszik, akkor elmehet olyan rendelőbe, ahol bemegy és megcsinálják neki azt, amit kíván, de nálunk nem, az a fontos, hogy amit csinálunk, az hosszútávon jó legyen és egészséges legyen a páciens hosszú távon. 
+
+I: Rendben. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Hát az, hogy idő megtanulni. Szóval, aki 50 éve lenyomatokat vesz, az nagyon nehezen fog áttérni neked arra, hogy a szkennernek a hatalmas fejével a nyolcas mögött disztálisan próbálja meg elérni a legutolsó kis pontocskát is, hogy az is le legyen pontosan szkennelve. De igazából muszáj lesz megtanulni mindenkinek. Az akadály szerintem az, hogy vagy már öreg valaki és nincs kedve átállni, vagy kényelmesen megszokta azt, ahogy dolgozik, vagy financiális okai lehetnek, mert például azért egy szkenner az elég drága lenyomatanyaghoz képest. [[EOthers->Measured||Aff_dig]] [[DValue->EOthers||Aff_dig]] [[ACost->EOthers||Aff_dig]]
+
+I: A következő kérdésem nagyban reflektál arra egyébként amit mondtál. Törekednél-e annak ellenére digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Szerintem nekünk nagyon fontos az, hogy fejlődjünk, meg ne úgy kezeljük a pácienseket, ahogy x éve az egyetemen megtanultunk, úgyhogy ha jönnek az új technológiák, akkor kötelesek vagyunk megtanulni. Azért is, hogy a pácienseinket jobb minőségben tudjuk ellátni, még akkor is, ha ez nekünk időigényes, vagy több izzattságba kerül. Úgyhogy igen, törekednék. 
+[[cid=case13]]  
+
+ 
+
+ I: Szuper. Hogyan tudnád csökkenteni szerinted a munkád környezeti terhelését, és hajlandó lennél-e ennek érdekében változtatásokat alkalmazni? 
+
+C: Hát igyekszem figyelni arra, hogy nem minden mozdulattal új kesztyűt veszek, ami szerintem még egy érdekes megoldás lehet, hogy a műanyag poharakat esetleg papírra cseréljük, hátha ezzel egy picikét kevesebb ennek a terhelése. Nyilván ahhoz olyan papírpohár kell, ami nem ázik el fél perc alatt, de persze ennyi nyitott lennék hogyha. [[EAvailable->Measured||Aff_mat]]
+
+ I: A meglátásod szerint mennyire használod ki azokat a lehetőségeket, amelyekkel csökkentheted az eszközök és tárgyak eldobását egy-egy kezelés után? 
+
+C: Amennyire lehet, én ezeket igyekszem kihasználni. Nyilván azért nálunk a kisebb méretű boxok miatt relatíve limitált, hogy mit, hova, hogyan tudok letenni, úgyhogy még sajnos előfordul az, hogy meg kell nyitni olyan dolgot is, amit mondjuk nem biztos, hogy összefogdosnék, hogyha egy picit több helyem lenne. [[EClinic->NotMeasured||Aff_mat]]
+
+I: Világos. Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el egy-egy kezelés után? 
+
+C: Hát. 
+
+I: Fogós kérdés. 
+
+C: Igen. Lehet ha magam fizetném, akkor azért jobban odafigyelnék rá. Egyébként szerintem, hogyha kevesebbet kellene ki-be szaladgálnom a kezelő rész, meg az eszközöknek a lerakati helye között, tehát nem kéne minden egyes eszközért, új fúróért, stb ledobom a kesztyűt, előveszem, újat veszek, stb, akkor azért az jobb lenne. Tehát egy picit az eszközöknek az elosztása is egy picit lehetne szerintem máshogy, hogy ne kelljen akkora utakat bejárnom, hogy azért már tényleg ledobom a kesztyűt, hogy ne fogjak össze semmit útközben. [[DValue->Measured||Aff_mat]] [[EClinic->DValue||Aff_mat]] [[EClinic->Measured||Aff_mat]]
+
+
+I: Rendben. Törekedni rá annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez infekciókontroll szempontból kevésbé praktikus? 
+
+C: Az infekciókontrollból ilyen szempontból nem engednék. Tehát hogyha ez ennek a rovására menne, azt én nem engedném. Ez fontos. [[AQuality->Measured||Aff_mat]]
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Hát egyrészt a betegnek a motivációja, mert ugye sokan csak bejönnek, hogy ő egy szép mosolyt akar és fizetni. [[PMotivation->Measured||Aff]_prev]
+
+I: Igen. 
+
+C: Azért, hogy ezért neki mit kell tenni, az ugye az egyéni motiváltság kérdése. A másik meg, hogy nyilván vannak olyan prevenciós eszközök, amik egyrészt van, hogy a rendelő számára is drágák, hogy bemutassuk, másrészt meg lehet, hogy a páciens számára egyénre szabottan ideális lenne, de mondjuk az ő pénztárcája meg nem engedheti meg ezt, úgyhogy ezt kellene valahogy picikét közelíteni egymáshoz. 
+[[ACost->EClinic||Aff_prev]] [[ACost->PMotivation||Aff_prev]]
+
+I: Világos. Törekednél-e annak ellenére a prevenciós szemlélet erősödésére, hogy - hát magán fogorvosi rendelők esetében legalábbis biztosan - páciensek bizalmát csökkentheti, ha a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Én azt gondolom, hogy mivel az a beteg érdekeit szolgálja, ha nem is sikerül neki 100%-ban átadnom, én maximálisan szakmaian járok el, úgyhogy én mindenképpen ennek ellenére is a prevenciót hangsúlyoznám neki és csinálnám a beavatkozásokat, hogyha ezt nem tudja elfogadni, akkor vagy én nem mondtam el jól, vagy nem áll készen arra, vagy nem érti teljes egészében, hogy ez az egész szájhigiénia mit jelent. 
+
+I: Szuper. Meglátásod szerint milyen akadályai lehetnek annak, hogy több digitális technológiát használjunk? 
+
+C: Egyrészt az, hogy ugye minden rendszer különbözik, ha valaki az egyiket megtanulta és az adott esetben nem elérhető, akkor nyilván a másik rendszerre átállni az némiképp nehezebb. Minden szoftver más, azoknak a kezelését meg kell tanulni, minden eszköz más, azt is meg kell tanulni. A harmadik meg, hogy ez egy dolog, hogy mi levesszük a lenyomatot, de hát abban valahogy produktumnak is kell születnie, és abban egyetértek azért sok esetben a kollégákkal, hogy olyan anyagokkal és eszközökkel dolgozunk egy 3d nyomtatás folyamán, amik azért nagyon erős vegyszerek, nem biztos, hogy annak mindenki szívesen kiteszi magát, vagy nem biztos, hogy mindenki megfelelőnek érzi a saját edukációs szintjét ahhoz, hogy tudja, hogy ezeket az anyagokat hogyan kell kezelni. [[DValue->DPersonal||Ana_dig]] [[AQuality->DValue||Aff_dig]] [[AQuality->NotMeasured||Aff_dig]]
+
+I: Utolsó kérdés. Törekedni rá annak ellenére a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Én úgy gondolom, hogy a fogászat az egy folyamatosan fejlődő szakma, tehát az új készség elsajátítása az szinte része a pályánknak. 
+
+I: Na igen. 
+
+C: Hogy ez drágább, igen, ez az első befektetés drágább, de én azt gondolom, hogy ez hosszú távon megtérül. Tehát ha megnézem, hogy mondjuk egyszeri befektetésnél milyen költsége van egy nyomtatónak, aztán hogy hosszú távon ebből mennyit lehet profitálni, szerintem megtérül. 
+ [[cid=case14]] 
+
+ 
+
+ C: Aha, igen, én abszolút, de ugye nekem mondjuk nincs, tehát szerintem hogyan lehetne csökkenteni, nyilván kevesebb egyszer használatos eszközzel, tehát szerintem az, ami elég erőteljesen befolyásolja. Most nyilván az általunk használt anyagok kiszerelése is sokszor egyadagos, ami nem feltétlenül változtatható, most értek itt egy, mit tudom én, cement kapszulára, meg ilyenekre, amit egyébként nagyon sokszor nem is hasznosítanak újra, mert szintén sokszor a fertőző hulladékba dobják, tehát hogy nem a , szelektív gyűjtéssel még nem nagyon találkoztam rendelőben, tehát azért itt egy zsák van, ugye gumikesztyű, partedli, kendő, stb stb, tehát nyilván ezekből lehetne kidolgozni olyan folyamatokat, hogy mondjuk ebből ne legyen most nem a gumikesztyűre gondoltam, de teszem azt a partedli vagy a műanyag tálca, ugye sokszor azt használják az eszközöknél, hogy ezek ne egyszer legyenek használva. Tehát én abszolút nyitott vagyok rá, de nekem ugye nincs rendelőm, tehát nyilván a rendelő tulajdonosoknak meg a költséghatékonyság sokszor fontosabb, mint ez szerintem. [[EAvailable->EClinic||Man_mat]] [[EClinic->NotMeasured||Aff_mat]] [[EClinic->Measured||Aff_mat]] [[ACost->EClinic||Aff_mat]] 
+
+ C: Igen, igen, szerintem ezt kihasználom. Nyilván lehetne mondjuk akár így a szelektíven gyűjtést egy kicsit jobban vezényelni, vagy az újrahasznosítást ott a rendelőben, tehát az szerintem nincs kihasználva, mondjuk, ahol én dolgozom, de mondom, ez ugye nem dolgozunk ott tízen, szóval nem csak rajtam múlik. Biztos, hogy vannak még más lehetőségek, amiről én nem tudok, nem hallottam. Tehát szerintem nem igazán használom ki, hogyha van erre már jól bevált ilyen workflow, akkor lehet, hogy erről én nem tudok. [[EClinic->NotMeasured||Aff_mat]]
+
+I: Értem. Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjunk el a kezelések után? 
+
+C: Szerintem elsősorban az, hogy meg van követelve, hogy ezek az eszközök sterilek legyenek, tehát sokszor azért nem használjuk mondjuk többször őket. Az, hogyha valami érintkezett már másik páciensnek nyálával, egyebével, azt azonnal el kell dobni, illetve szerintem a költségek. Tehát sokszor ezek az egyszer használatos tálcák, mondjuk, amire mi pakoljuk a kis cuccainkat, ezek a műanyag, ez egy műanyag tálca, ebből nyilván lehetne fémtálcát is venni, mint pont ahol volt a hallgatód, szerintem ott fémtálcát használtunk, de a másik rendelőben, ahol én vagyok, ott műanyag tálcát használunk, és ennek az az oka, hogy egy autokláv van, és ugye nem tudunk a tálcát autoklávozni, amennyi beteg megfordul, az egy nagyon nagy forgalmú rendelő, tehát egy nap nemtom 20 beteg, és nem fektet be a rendelő 20 darab fém, vagy nem 20, hanem mondjuk 30 darab fémtálcában, mert nyilván azt akkor autóklávozni kell, le kell fóliázni, stb stb, és egyszerűbb a műanyag tálca. Egyébként mondjuk abból például van, hogy újra, tehát bedobjuk ilyen ázó folyadékba azt a műanyag tálcát, hogyha nem lett nagyon piszkos. Ezt mondjuk egyébként szerintem nem lehetne, vagy nem tudom, hogy erre van-e szabályozás, de ezt mondjuk meg szoktuk csinálni. 
+[[AQuality->Measured||Aff_mat]] [[AEfficiency->EClinic||Aff_mat]] [[EClinic->Measured||Aff_mat]]
+
+I: Ez egy szürke zóna. 
+
+C: Igen, ez egy szürke zóna. Szerintem a fő akadály a fogászatban ez, tehát nyilván most itt a magánszféráról beszélünk esetemben, mert fogalmam sincs, hogy egy körzetben még valószínűleg ezzel is spórolnak, hogy az egyszer használatos dolgokat többször használják, tehát hallottam már izé kesztyűfertőtlenítésről én is, de hogy igen, szerintem ez a fő akadálya. Nyilván egy magánrendelőben beül a páciens, akkor azt kell, hogy lássa, hogy minden vadi új és csillog-villog, nem pedig huszadjára van használva. Tehát szerintem ez, ami a legnagyobb akadálya. Meg hát nyilván a költségek, tehát hogy a most azért a magánrendelők közötti versengés, stb. miatt mindegyik tulajdonosa profitra hajt, és nyilván magasabb költségekkel járna akár az, amit mondtam, hogy filmtárcát venni és autóklávozni egész nap. 
+[[PTrust->Measured||Aff_mat]] [[ACost->EClinic||Aff_mat]] [[EOthers->ACost||Man_mat]]
+
+I: Igen. Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, vagy ez az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Nyilván, hogyha ez, igen. Tehát az a helyzet, hogy azért az infekciókontroll jóval egyszerűbb az egyszer használatos dolgokkal. Tehát hogyha van egy jól felszerelt rendelő, több autokláv, akkor nyilván ez tök jól működik, csak hát nem tudom egyébként, hogy ez akár külföldi rendelőknél hogy van, mert nyilván azért Magyarország ilyen szempontból még nézetekben is jóval elmaradottabb, de én törekednék rá. Tehát, hogyha saját rendelőm lenne, és nem az van, hogy döglődik, akkor abszolút, mert mondjuk az itthoni családi életben nyilván én ilyen szempontból felvilágosult vagyok, tehát szelektívezünk, újra használunk, nem veszünk vackokat, de ez szerintem így a korosztályomra azért így jellemző. Úgyhogy igen, törekednék rá. [[ERegional->EClinic||Aff_mat]]
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: Szerintem ez szerintem egyébként ennek a legeslegfőbb akadálya az nem az orvosok szintjén van, hanem a páciensek szintjén, tehát hogy hozzánk akkor jönnek, amikor már fáj. Nyilván onnan nehéz nyerni. Tehát nagyon kevés az a réteg, aki mondjuk visszajár ellenőrzésre, tényleg odafigyel, hiába mondjuk van a féléves értesítő e-mail mindenfene, nem jönnek. Szerintem elsősorban itt a társadalomnak a nyitottsága sem túl nagy ezekre a prevenciós tevékenységekre, tehát hogy előzzék meg a bajt, és ne azt várják meg, amíg nagyon rossz lesz. Illetve nyilván ez időt vesz el, mármint kezelési időt vesz el mondjuk alapvetően, hogyha jön egy új páciens, bár szintén ez a magánszférában más, mint mondjuk az állami szférában, ugye a magánszférában mondjuk nálam egy első konzultáció, az egy óra, és ott tényleg mindenről beszélgettünk, tehát arról is, hogy szokott-e kutyát sétáltatni, meg mit eszik. Szerintem ez a része mondjuk a magánszférában jobban megvan, hogy erre van lehetőség, hogy egyben nézzük a beteget, de nyilván a fogorvosoknál is az idősebb korosztálynak a szemlélete azért más egy picit. Nyilván jobb, vagy hogy mondjam, több fizetést kapunk, hogyha három tömést csinálunk ahelyett, hogy beszélgetnénk és megcsinálunk csak egyet. [[PMotivation->Measured||Aff_prev]] [[ACost->Measured||Aff_prev]]   
+
+I: Világos. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy, hát főleg magán fogorvosi rendelőknél, a páciensek bizalmát csökkentheti, ha újabb beavatkozásokat javasolsz prevenciós céllal. 
+
+C: Ja, igen, engem nem, tehát hogyha már beavatkozás kell, amikor pályakezdő voltam, még nagyon féltem ettől, hogy majd mit gondolnak, hogy én megmondom, hogy még ezt is meg kéne, meg azt is meg kéne, azt már ezért így lassan 12 éve nyomom. Én nagyon meggyőző tudok lenni, hogy mindent rakjunk rendbe, mert akkor jó lesz, és ha nem rakjuk rendbe, akkor sokkal rosszabb lesz, úgyhogy engem nem zavar, hogyha emiatt. Egyébként ez szerintem nem bizalomcsökkentő. Tehát én azt látom, hogyha normálisan el van nekik mondva, kapnak egy kezelési tervet, elmondom, hogy nagyjából mennyi időn belül kéne ezt megcsinálni, abszolút nem szokta őket elüldözni. Úgyhogy igen, én erre törekszem alapvetően, és nem érzem azt, hogy ez bizalomcsökkentő. 
+
+I: És szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk? 
+
+C: Költségek. Nyilván azért egy ilyen szkenner az itt a 6 millió, 10 millió, nem mindig szívesen fektet be mondjuk a rendelőtulajdonos, illetve az idősebb generáció, tehát nekem is mondjuk én most 35 vagyok, de van mondjuk 40 éves kollégám, aki azért nyilván ezt a szkennert így úgy fogta meg, hogy úristen, most akkor azzal mi az istent csináljak, tehát szerintem ez a kettő. [[ACost->Measured||Aff_dig]] [[ACost->EOthers||Aff_dig]] [[EOthers->ABenefit||Ana_dig]] 
+
+I: Törekednél-e annak ellenére digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz? 
+
+C: Igen, törekednék, de hát mondom, nálunk ez megvan, ezt csináljuk, úgyhogy igen. 
+ [[cid=case15]] 
+
+C: Meg nagyon-nagyon sok vattát még a vérzéscsillapításhoz, magát a vérzéscsillapítót is. Azt is tudjuk, hogy jó kis PET-műanyag, kis pici kiszerelésekben jön forgalomba. Tehát ha ambulancián vagyok, akkor bevallom őszintén, nem nagyon szoktam gondolkodni. Akkor fájdalomcsillapítás, hogy minél gyorsabban végezzünk a lehető legnagyobb minőségben. Amikor meg kezelek, akkor viszont véleményem szerint egy kicsit felvilágosultabb vagyok, mint egy mezei fogorvos kolléga, mert tényleg egy tíz percet rászánok az elején tényleg, hogy végiggondoljam, hogy mit akarjak csinálni. Akkor okés, tehát ez a tudatosság nyugodt körülmények között megvan, de egy stresszesebb, akutabb körülmények között nem nagyon, bevallom őszintén.  [[EAvailable->NotMeasured||Aff_mat]] [[EClinic->DValue||Man_mat]] [[DSit->DValue||Aff_mat]] 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat ropjunk el egy-egy kezelés után?  
+
+C: Akaraterő.  
+
+I: Igen?  
+
+C: Aha. Egyszerűen sokkal egyszerűbb egy újat venni, és akkor pörgősebben, az érzetet adja, hogy pörögsz, haladsz, kényelmesebb. A fenntarthatóságnál maga az eszközhasználat egyrészt nagyon tudatosnak kell lenni benne, következetesnek, és bizony áldozat, idő szempontjából egy kis áldozat. Kompromisszumok.   [[DValue->Measured||Aff_mat]] 
+
+I: Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy ez az infekciókontroll szempontjából kevésbé praktikus?  
+
+C: Maximálisan, maximálisan. Mert valljuk be őszintén, tehát a fogászati beavatkozás az nem egy steril beavatkozás. Helló, felületfertőtlenítő, hogyha van egy jó felületfertőtlenítő, márpedig egészségügyi létesítményekben a lehető legjobbakat kell használni. Abból a szempontból, hogy tényleg akkor egy picit időben, a kofferdám kapocs esete. Leesik a földre, vagy az exhaustor kiesik véletlenül, nem baj, lefújod, vársz egy 5 percet, páciens is addig nyugizik, akkor egy kicsit tud stresszmentesíteni mentálisan, és akkor szépen megy tovább minden. Oké, egy picit elnyújtja az időt, viszont cserébe kevesebb anyagot használsz. De mondom, akaraterő.  [[DValue->NotMeasured||Aff_mat]]
+
+ C: Igen, tehát hogy az a három legyen mindenképpen, meg hogy szúró-vágó anyaggyűjtő, legyen veszélyes hulladékgyűjtő, meg legyen a sima kommunális. A másik kérdésem az lenne, vagy gondolkodni szoktam ezeken pontosabban magamban, hogy oké, de fogászatban is használunk papírt. De ugye zömében csak a maga a törlőkendő az, ami papírhoz megy a kommunálisba, azt lehet akár, sőt az az újrahasznosítható terület szerintem. Viszont a műanyagok, ugye vegyük a kofferdam gumit magát.  
+
+I: Igen.  
+
+C: Az is valamilyen szinten műanyag. Újrahasznosítani nem tudom, hogy lehet-e.   
+
+I: Abban most én sem vagyok biztos.   
+
+C: A másik, ott van mondjuk a nyálszívónak a kemény műanyagja, meg abban van egy fém szálacska is.  
+
+I: Igen.  
+
+C: Na most mindig a, kicsit messziről indítom a következő gondolatot, de kapcsolódni fog ehhez. Nagyszüleim mondták, hogy a szocializmusban minden szódásüveg, minden üveg volt majdhogynem, és ezekre vigyázni kellett, mert mindig jöttek összegyűjteni, vagy amikor mentek vásárolni, le tudták adni a régit, és akkor tudták venni az újat. Ez a betétes üvegek, amik voltak.  
+
+I: Igen.  
+
+C: És erre volt egy egész hálózat, hogy ezeket tisztítsák, tisztán tartsák. Most kérdésem az, hogy ma a fogászatban ugye, hogyha csak egy sima konzerváló töméskészítés, egy felszíni tömést, ha készítünk a beavatkozáskor, nagyon sok műanyag hulladék keletkezik, és ez a műanyag is nagyon sokféle-fajta, és azon kívül, hogy ezek általában mindig keverve vannak valahol akár fémmel, nyálszívónak az esete. Most megnézem, hogy ki az az ember, aki egyesével, vagy egy olyan gépezet, tehát aki működtet, hogy ezt a fémszálat kihúzza a nyálszívóból, hogy lehessen külön gyűjteni magát a műanyagot meg a fémet, és ennek megfelelően újrahasznosítani a dolgokat? Megint csak itt vagyunk, visszaérkezünk a tudatossághoz, meg az akaraterőhöz, a kompromisszumkészséghez, meg az áldozatkészséghez. Tehát szerintem ahhoz, de nem csak fogászatban, hanem magában az élelmiszeriparban, ami szerintem a második legnagyobb lábnyom, a fogászati kisebbik, de hogy erre külön iparág kéne, ami működjön, és akkor szerintem rohadt jól, nagyon jól működhetne ez a rendszer, csak ugye az gazdasági szempontból nem előnyös. És ugye egy ilyen kapitalista, ó, most világnézeti filozófiai magasságokba emelkedik ez a beszélgetés, de amíg a profitot hajhászod, mindig másodlagos lesz a, vagy sokadlagos lesz a fenntarthatóság szerintem. Tehát most egy kicsit, hogy majd ennek a kérdéssornak a végére egy kis perspektíva tágításként, hogy ez nagyon piciben tud elkezdődni. Lokális szinten, olyan szinten lokális szinten, mondjuk itt a házon belül lenne külön erre egy apparátus, aki ezzel foglalkozik.  [[EAvailable->NotMeasured||Aff_mat]] [[ACost->EAvailable||Aff_mat]]
+
+I: Bocsánat, azért egy-egy fogorvos szintjén, vagy az már túl alacsony szint?  
+
+C: Az túl alacsony szint, hanem így házon belül mondjuk, tehát minden szinten keletkező hulladék az ugye, ha jól tudom, [ANONIMIZÁLVA] csinálják azt, hogy gyűjtik egy helyre mondjuk egy heti vagy egy napi adagot, és akkor.  
+
+I: Ő csinált ilyet, igen.   
+
+C: Csinált ilyet. Tehát például oké, ott van az a rész, és erre nem feltétlen kell humán, hanem lehet ez egy gépesített rendszer is, hogy akkor szétválogatja, hogy na ez most akkor csak műanyag. Nyilván arra már nem lesz kapacitása, hogy a kofferdam gumit meg a nyálszívónak a műanyagját megkülönböztesse egymástól, csak hogy a példánál maradjunk, de hogy műanyag, fém, papír, fa lapoc például, hogyha valaki.  
+
+I: Igen.  
+
+C: Tehát, hogy ezeket így szét lehessen szortírozni és akkor ennek megfelelően elszállíttatni. És ez csak az a hulladék, ami vérrel nem kontaminált, mert akkor azt meg még külön kéne gyűjteni. Tehát akkor már kapásból kettő sárga zacskó lenne, vagy egy másik színű a sárga mellett, és akkor így lehetne, hogy ugye a vér az tényleg megsemmisítős történet. Viszont ami nem, az mehetne a megfelelő szervekhez, meg helyekhez. Messzire mentem.  
+
+ I: Meglátásod szerint más fogorvosokhoz képest mekkora hangsúlyt helyezel a prevenciós szemléletre?  
+
+C: Én, most egy kicsit rosszabb humorérzékem. Én ebből a szempontból nekem az a célom, hogy egy olyan 20-25 év múlva én már tényleg csak depuráljak, vagy ilyen fenntartó fázisban kontrolláljam a pácienseket, hogy úgy van, mert ugye ez mindig egy csapatmunka fogászati beavatkozás. Ha a páciens nem teszi oda a magáét, akkor mindig kezdődhet elölről ugyanaz a kör. Na már most ebből kifolyólag ugyanannyi eszközt fogunk elhasználni többször. Ez nem jó, ez nem jó. Viszont nézzük meg, lehet, hogy most beletrollkodok így a kérdések menetébe,  
+
+I: Nem baj.  
+
+C: de nézzük meg magát az eszközöket. Prevenciós jelenben mindent kell használni, kell használni egy fogkefét, kell használni fogselymet, kell használni fogköztisztító kefét, kell használni fogkrémet, kell használni nyelvkaparót, vagy nyelvháttisztítót, bocsánat. Tegyük fel, hogy van már egy műtéti beavatkozás, minden, szájvíz, ami a klórhexidin tartalmú szájvíz. Na most ez hat eszköz, ez úgy összességében nagyjából lehet egy olyan 15-20 ezer forint. Na már most. Egyszer kiszámoltam, mert nekem van egy nagyon-nagyon szkeptikus unokatestvérem, nagyon-nagyon szeretem, mert nagyon sokat tudunk vele konstruktívan vitatkozni. Jogásznak tanul, úgyhogy tökéletesen beleillik a keretbe, amit választott. Na, ha egy évre levetítjük, hogy évszakonta, tehát háromhavonta kell váltani fogkrémet. Fogkefét, bocsánat. Kéthetente kell váltani fogköztisztító keféket. Tegyük fel, hogy most alapul véve a Curaprox-ot, ugye több színkód van, de másik rendszereknél is. Vegyük azt, hogy csak kettő méret elég a fogközökhöz, a maradékban meg majd a fogselyem. Igen, a nyelvháttisztító, és akkor most a szájvizet azt hagyjuk. Én nem nagyon hiszek benne, hogyha nincs olyan műtéti beavatkozás, ami egy olyan durván parodontális flóra, akkor szerintem elhagyható. Most ezt egy évre levetítve a költség az még mindig kevesebb, mint egy sima egyfelszínű tömés egy átlagos budapesti magánrendelőben. Na már most. 
+
+I: Ez egész biztosan így van.  
+
+C: Tehát ez már önmagában, tehát a pácienseknek, hogyha lenne egy ilyen számszerűsített kimutatás, ez már önmagában szerintem egy nagyon meggyőző lenne a magyar prevenciós tevékenységekben. Magyarok, mi meg egyébként a közép-európaiak is azért eléggé hozzá vannak kötve az anyagi szempontokhoz. Mit akarok még ezzel mondani. Hogy jó dolog ez a prevenció tényleg. Mert az a hihetetlen mennyiségű anyag, amit mondjuk egy körhíd készítésénél felhasználunk, azt így mondjuk meg tudjuk spórolni, meg tudjuk előzni. Na de most akkor nézzük minden érmének két oldala van, nézzük meg ezeket az anyagokat, amiket fölsoroltam az előbb a prevenciós anyagokat. Szinte kivétel nélkül mindegyik műanyag, és ráadásul olyan műanyag, ami kemény műanyag. Ergo, újrahasznosításuk szerintem nem megoldható még a mai napon, vagy ha igen, akkor hihetetlenül körülményes. Én egy nagy Curaprox fan vagyok, de egyébként bármelyik fogkefét, ha megnézzük, mindegy, nincs olyan, volt ilyen őrület, hogy bambusz, stb. De a sörte az még így is, úgy is műanyag marad, mert egyszerűen organikus anyagokból úgy, hogy ne kopjon, csak három hónap után kezdjen el szignifikánsan kopni, az nem megoldható szerintem organikus anyagokkal. A Curaprox-nak is azt hiszem van ilyen fogkeféje, aminek a nyele már fából vagy bambuszból van. [[ACost->PMotivation||Man_prev]] [[ERegional->ACost||Aff_prev]]
+
+I: Igen, igen.  
+
+C: De mondom, a sörte, annak muszáj műanyagból lennie sajnos. Hosszú távúságból. Viszont ami nekem nagy bajom, a fogköztisztító kefe. Tök jó, van egy műanyag befogata, amivel a nyélhez hozzáerősítjük, van egy fémszálcsa, amibe szintén ilyen műanyag kis sörték vannak befogva. Na most mivel az egész körülbelül egy olyan egy centi magas.  
+
+I: Igen.  
+
+C: És maximum ha 5 milliméter átmérőjű a nyél, amit befogunk, vagy a befogat, amit berakunk a nyélbe, hát ember legyen a talpán, aki ezt így szétválogatná, meg gépesítéssel meg lehetne oldani. De most gondoljunk bele megint abba, hogy az ember az mennyire egy kényelmes lény. Hát, kapok nyolcat egy csomagban, azt hiszem az utántöltőben nyolcat. Kiveszek egyet, hát most nem fogok én kimenni mondjuk a mosókonyhába a boltban a szelektív gyűjtőn, hogy akkor berakjam a műanyag gyűjtőbe, annyira pici, hát kidobom a fürdőszobai szemetesbe, ami ilyen kevert massza. Ez mondjuk annyira nem jó szerintem. Itt inkább meg lehetne csinálni azt, mivel úgyis kéthetente cseréli az ember, na ezt szerintem simán meg lehetne oldani egy kis pici organikus eszközökből. Simán az egészet. Ja, majd ez lesz a Nobel-díjas ötletem, amikor majd 35 évesen nyugdíjba fogok menni szabadalommal, dehogyis.  
+
+I: Úgy legyen.  
+
+C: De hogy szerintem, hogyha ebbe az irányba menne mondjuk a bármelyik fogászati szájápolási eszközöket gyártó cég, nagyon nagyot szakíthatna. Igen, mert egy fogkefe az még nagyobb, hát figyelj, újrahasznosítás szempontjából szerintem egyszerűbb lenne. De hogy önmagát ha megnézzük, a fogkrémnek a tubusa az műanyag. Tehát ezen nem tudunk segíteni. Viszont mondjuk vannak már ilyen organikus, hogy mondják ezt, hogy a polilaktát, meg az ilyen tényleg lebomló műanyagokból. Szerintem simán lehetne csinálni ebből, és akkor bocsánat, nyilván nem éri meg, hogy azért sincs még a piacon ennyi. De igen, szóval, a prevenciós eszközök is tök jók, mert tök sok fogászati beavatkozásnál felhasznált anyagokat meg tudnánk előzni, azoknak felhasználását, de maguk a prevenciós eszközök sem fenntarthatók szerintem a mai világban, vagy ma még.  [[EAvailable->ACost||Man_mat]]
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenció szemléletet?  
+
+C: Milyen akadályai, első rendben akaraterő. Ugye mondtam az anyagias szempontot itt a közép-európai térségben, különösen a modern szférában, általában az van, a fogorvos az hajtja, hajtja, hajtja a pénzt. Azért már egy-két helyen tapasztalható az, hogy bejön ez a prevenciós szemlélet, de egyébként ha jobban belekaparunk, megkaparjuk a felszínt, ez is igazából pénzokok miatt, anyagi okok miatt van, mert egyébként nagyon elmés, a megfelelő szájhigiénéhez, meg a fenntartható szájhigiéné miatt ehhez köti a garanciát egy rendelő mondjuk.  [[DValue->Measured||Aff_prev]] [[ERegional->EOthers||Man_prev]] [[ACost->PMotivation||Aff_prev]] [[EClinic->ACost||Aff_prev]]
+
+I: Igen, igen.  
+
+C: Szerintem ez egy zseniális húzás, de ebből nagyon kevés van. Tehát ez egy jó kiindulópont lenne, mert ha jól tudom, a 70-es években a skandináv országokban, azon belül Svédországban is így indult az egész történet, hogy 18 éves korig minden ingyenes, kórház, minden ingyenes, utána viszont gatyáját ráfizeti az ember. Ha azt a 18 év alatt elsajátított szájhigiénés tevékenységet, meg habitust nem folytatja akkurátusan, és ez okból következik neki bárminemű problémája. Most nem ide sorolva azokat az eseményeket, mondjuk egy dentális traumát, ami miatt helyre kell állítani a fogat, az egy másik történet. De igen, tehát ami a páciensen múlik, az itt Magyarországon is szintén szerintem így lehetne kipréselni. Így tudnánk kipréselni a társadalomból, hogy akkor van garancia, meg akkor van minden térítés, kedvezményes térítés, ha jó a szájhigiénia. De ez idő. Tehát most hogyha nézünk egy pácienst, akivel mondjuk beszélgetek, és megcsináljuk, vagy bocsánat, tehát kezelem, és az első ilyen prevenciós oktatás, instruálás, motiválás megvolt, szinte nem volt olyan, hogy a következő alkalomra tökéletes lett volna minden. Mindig-mindig akkor újra meg kell mutatni, újra hozzá kell nyúlni, újra meg kell fogni a csuklóját, hogy akkor így mozgasd a kezedet. Tehát egyszerűen nincs olyan, hogy tökéletes legyen, ha nincs benne nap mint nap. És ez, megint mondom idő, idő, pénz és energia.  
+[[ERegional->ACost||Aff_mat]] [[ACost->PMotivation||Aff_prev]] [[PEducation->PMotivation||Aff_prev]] [[PMotivation->Measured||Aff_prev]] [[AEfficiency->DValue||Ana_prev]]  [[DValue->ACost||Ana_prev]]
+
+I: Igen, igen.  
+
+C: Sokféle szempontból, úgyhogy ez az egyetlen legnagyobb akadálya szerintem az akaraterő. A másik meg az, hogy tényleg, igen, akaraterő, meg világnézet.  
+
+I: Most ezt itt, de itt szintén kinek a részéről az akaraterő?  
+
+C: Mind a két ember részéről, mind a fogorvos részéről, mind a páciens részéről, de szerintem itt a fogorvos. Én nem, igen. Ugyanolyan egyenlő mértékben, hogy lehet, hogy a fogorvos nekem is volt olyan páciensem, hogy már nagyon sokszor elmondtam neki, hogy hogyan csinálja és nem csinálja úgy. És nem tudom, hogy csak azért, hogy bosszantson engem, de nem ilyen embernek ismerem, hanem egyszerűen nem tudom megmondani, hogy miért, de ilyen, ez volt. 
+
+I: Igen, igen. Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy, főleg magán fogorvosi rendelőben, csökkentheti a páciensek bizalmát, hogyha újabb prevenciós jellegű beavatkozásokat javasolsz.  
+
+C: Tehát a kérdés az, hogy ennek ellenére is csinálnám-e?   
+
+I: Igen.   
+
+C: Mindenképpen. Mindenképpen. Tehát én nagyon-nagyon szeretem ennek a mikrobiológiai vetületeit is, meg a biofilm képződés, a kezdeti szuvasodásnak a képződésének. Nagyon szeretek belemenni a biokémiájába is, meg a mikrobiológiájába is, meg tudnám azért győzni a pácienseket a tekintetben, hogy lehet ő ezt most lehúzásként értékeli, hogy még több pénzt ki akarunk belőle sajtolni, de fogja már föl, hogy nem erről van szó. Egy, kettő, meg hogy mindennek ára van. Tehát ahhoz, hogy én ezt most így el tudjam neki mondani. Nekem ahhoz kőkemény éveket kellett ülni itt az egyetemen a katedrán, hogy én ezt jól el tudjam neki magyarázni, fel tudjam világosítani, hogy miről van szó. Továbbá még azok az eszközök, pláne, hogyha egy jó magánrendelőről beszélünk, mondjuk aki valamire való, valamit ad magára, plusz még egy olyan intézetvezető asszisztense van, aki az anyagismeretben jártas, az nyilván minőséget fog vásárolni, mert tudja, és a minőségnek mindig ára van. Tehát ezt a kettőt kell megértenie, hogy ez egy folyamatosan újraképződő rendszer, mármint a lepedékfok és a többi. Plusz, hogy ha minőségi anyagokkal akarunk dolgozni, annak ára van. Ennyi. Én még nem dolgozok a magánszférába, mert bevallom őszintén, még nem értek annyira a pénzhez, hogy ezeket így, ilyen higgadtan, nyugodtan, szépen, értelmesen el tudjam mondani a pácienseknek, de majd egyszer eljön az az idő is, biztos vagyok benne, hogy el fog jönni az az idő is. Nem tudom mikor, de hogy addig például itt nagyon-nagyon jókat lehet gondolkodni. Itt az egyetemen belül is, mert itt aztán tényleg a társadalom minden szintjéről vannak itt páciensek. Vannak itt a nagyon gazdagok is, akik TB-re hivatkozva mindent akarnak, meg vannak szegények tényleg, akik egyszerűen nem engedhetnek meg maguknak egy magánrendelőt. Minden van. És akkor itt lehet látni, lehet súlyozni a dolgokat, tanulni. A lifelong learning. Igen. Szóval a kérdésre a válasz akkor annyi, hogy mindenképpen folytatnám ezt a prevenciós történetet.  [[PEducation->PMotivation||Aff_prev]]
+
+ I: meglátásod szerint más fogorvosokhoz képest mekkora hangsúlyt helyezel digitális technológiák alkalmazására?  
+
+C: Én még nagyon-nagyon keveset, mert bevallom őszintén, nekem az első benyomásom a digitális fogászattal kapcsolatban rendkívül negatív volt, mert semmi se sikerült el se, nyilván nem, de másodjára meg harmadjára se. Tudom, mik a problémáim, és ezúton zömében az, hogy hogyan kell forgatni a szkennert magát, meg hogy hogyan kell preparálni, tehát ilyen jellegűekre gondolok. Viszont én azt mondom, vagyis ehhez tartom magam, és most így hivatkozok magamra, mint egy rebellis analóg emberre, hogy én most minden analóg módot csinálok. Egyszerűen csak azért, hogy tudjam, hogy egy fogtechnikus mit néz, egyszerűen, meg hogy amikor majd a digitális eszközökkel elkezdek napi szinten, most is dolgozok velük, természetesen meg kell is, csak nagyon-nagyon ritkán. Tehát amikor választotok, akkor inkább analóg módot választok. De nyilván dolgozom digitális, például hallgatói gyakorlatokon. És amíg nem tudom, hogy az egyik rendszer, tehát a régebbi az önálló rendszernek mik a hátrányai, és azokat hogyan tudom kiküszöbölni, vagy legalábbis kompromisszumosan, a lehető, legszakmailag a lehető legjobbat kihozni egy rendszerből, addig nem akarok a digitálissal foglalkozni, ennyire mélyen behatóan. Tehát most momentán életemben úgy zajlik ez a rendszer, hogy analóg, ami csak belefér, és hozzá a basic skillek, így az alapvető scanner mozgatás, aztán utána, hogy hogyan kell tervezni egy betétet mondjuk, vagy egy szóló koronát, ez megy digitálisan, de majd el fog jönni az az idő, pár éven belül, amikor én is tényleg csak digitálisan szeretnék dolgozni. És egyébként, hogy kapcsolódjak az előző témákhoz azért is, mert szerintem egy digitális rendszer sokkal-sokkal fenntarthatóbb. Egy szkennert használunk, és nem hatszázféle lenyomat kanalat, meg hatszázféle lenyomatanyagot, amit hatszázszor használunk mondjuk egy ülésben, hanem egy sima intraorális szkenner. Ha úgy van, akkor kitöröljük szépen, mondjuk hogyha rossz a szkenn, újra szkenneljük, átpreparáljuk, újraszkenneljük. Tényleg nagyon nagy előny, és ez mondjuk vitathatatlan előny, ahogy ott már rögtön szék mellett látom az interokkluzális térközt, ami a legkritikusabb, mondjuk a fogtechnikusnak is. Viszont, viszont - most egy kicsit megint kitekintés - elektromos autók világa, tehát az elektromos autókban is elkészül egy akkumulátor. Annak annak az akkumulátornak a legyártása, ugye tudjuk a közéletben is azért elég nagy port kavar, annak a nem túl környezetbarátsága. Ergo igazából valahol ugyanott lehetünk, mintha dízelautóknál lennénk. Na mármost, fogászatban szerintem nem ennyire drasztikus a különbség a kettő között, vagy a digitális fogászatnak az árnyoldala nem ennyire drasztikus, vagy nem vett ekkora nagy árnyékot, hogy irodalmian fogalmazzunk. Mert itt igazából csak az van, hogy a rendszerszoftver, amit használunk, annak van egy szervere valahol a világon, és azért az fogyaszt rendesen áramot, meg mindent. De szerintem ez lényegesen elenyésző mondjuk a példában használt elektromos autóiparhoz képest. Ebből a szempontból egy hihetetlenül nagy előrelépés a digitális fogászat, fenntarthatóság szempontjából. Viszont nyilván lesznek majd a jövőben is olyan nehézségek, amit majd csak analóg módon vagy a kettőt együtt tudjuk majd megoldani. Szóval igen, a kérdésedre a válasz akkor, hogy életem részét képezi, viszont szeretném azt, hogy még inkább az életem részét képezze, és igen, már többek között egy fontos szempont itt is a fenntarthatóság, meg az egyszerűbb használat.  [[DSit->Measured||Aff_dig]] [[ABenefit->Measured||Aff_dig]]
+
+I: Jó. Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzunk?  
+
+C: Anyagiak. Mai napig szerintem nagyon drágák ezek. Meg úgy is, hogy most így Budapestet nézve a legjobb rendelők azok már nyilván a kezdetek kezdete óta beszerezték maguknak ezeket a rendszereket. Most már az árkategóriában a középmezőnynek a felső részébe is kezd már lecsorogni ez a digitális technológia. És szerintem egy húsz éven belül már annyiféle-fajta ilyen rendszer lesz meg szoftver, hogy egyszerűen nagyon nagy lesz a kínálat, és éppen emiatt majd az ár is csökkenni fog valamennyire. Annyira, hogy mondjuk egy minőségi árkategóriában középső réteget képviselő rendelő is beszerezzen mondjuk egy ilyen egyszerűbbet. De nyilván az, hogyha a legprémiumabb minőségűt akar az a legprémium minőséggel akar az ember dolgozni, na majd ez alapján fogpótlásokat gyártani, akkor nyilván az mindig drága lesz, tehát ez mindig így lesz. De igen, tehát a legnagyobb akadály szerintem mind a mai napig itt a közép-európai régióban az az anyagi szempontok. Mert azon túl minden más, tehát bárki vehet egy akkora, mittudomén, egy olyan okostelefont, ami már egy terabájt tárhelye van.  [[ACost->EClinic||Aff_dig]] [[ERegional->ACost||Aff_dig]]
+
+I: Igen, igen.  
+
+C: Tehát ez már megoldható, meg a felhő alapú szolgáltatások is már nagyon-nagyon olcsóak, relatíve.  
+
+I: Igen, igen.  
+
+C: Úgyhogy szerintem nem ez a probléma, hanem még az, hogy magának az első beszerzés, aztán utána az már egy önjáró lesz, hogyha persze beindul a rendszer, meg hogyha kitermeli a költségét, de az azért nagy, az első. Ebben a komoly viszonylatban.  
+
+I: Törekednél-e le annak ellenére a digitális technológiák alkalmazására, hogy ezek kezedben drágábbak a hagyományos megoldásoknál, és a fogorvosoknak új készségeket kell elsajátítaniuk a használatukhoz?  
+
+C: Na igen, ez a nagyon nagy dilemma, igen. Tehát ez attól függ, hogy az ember hol dolgozik. Egy magánrendelőben nyilván mivel hogyha eldönti a vezetőség ott, hogy vesz egy ilyen rendszert, akkor ott kő kövön nem marad, egy hónapon, francokat, két héten belül már konkrétan olyan skilleket kell kifejleszteni egy dokinak, aki ezt napi szinten majd használni fogja, mintha már 20 éve ezt használná. Drasztikusságát akartam kiemelni ezzel a kis hasonlattal. Tehát magánrendelőben szinte az eleje nehéz, aztán utána könnyebbé válik. De mondjuk egy állami szféra, ugye oda nagyon-nagyon. Nem tudom, az egyetemi ellátó szinten kívül mikor lesz itt valaha is olyan, hogy állami berkeken belül digitális rendszer. Nem mostanában, meg nem az elkövetkezendő évtizedekben, bár ki tudja, csodák mindig történhetnek, hogy az egyetemi ellátásnak a szintjén ott van, mint ahogy nálunk is van. És a többi orvosi egyetemen is van már ilyen digitális rendszer. És itt megengedheted úgymond magadnak azt a luxust, hogy a saját tempódban haladjál, és hogy kísérletezzél, idézőjelben anyagilag büntetlenül. De azért nyilván nem ingyen, de hát így is, úgy is azért jóval töredéke mondjuk egy magánszférában való idézőjeles kísérletezéshez képest. Bocsánat, a kérdésnek az eleje mi volt? Elkalandoztam. [[ACost->EClinic||Aff_dig]]
+
+I: Annak ellenére is törekednél-e a digitális technológiák alkalmazására?  
+
+C: Igen.  
+
+I: Hogy drágábbak és új készségek kellenek hozzá.  
+
+C: Igen, igen, igen. Egész egyszerűen azért, mert a hosszú távú gondolkodás az, ami a józan emberrel azt mondani, hogy igen, ezt érdemes elkezdeni. Mert viszont ha nem csinálom, akkor nem jutok egyről a kettőre sose.  
+
+I: Ez igaz.  
+
+C: És ugye ez a probléma szintén hozzáállás, akaraterő, de manapság mivel az ember rövid távban gondolkodik, mindig rövid távban gondolkodik, pedig stratégiai hosszú táv az egy hihetetlen nagy fegyver. Most nem csak az egészségügyi meg a fogászati szférára gondolok, hanem mindenhol máshol az lenne, de hát most az ilyen Tiszavirág életű tervek, meg projektek idejét éljük, de hát reméljük, majd jön egy társadalmi, meg globális szintű társadalmi józanodás zárójelbe zárva.  [[DValue->Measured||Aff_dig]]
+
+I: A felvételt ennél a pontnál le is állítom.  
+[[cid=case16]] 
+
+ 
+
+I: Értem. Szerinted milyen akadályai lehetnek annak, hogy kevesebb eszközt és tárgyat dobjál el egy-egy kezelés után? 
+
+C: Hát mondjuk, ha a technika szenzitív vagy egy bonyolultabb folyamatról van szó, ahol mondjuk nem elegendő nyilván egy vagy két műszer, akkor nyilván kénytelenek vagyunk több mindenhez nyúlni, de mondjuk a [ANONIMIZÁLVA] is igyekszik figyelni arra, hogy mondjuk a tömeges tálcában is nem külön flaggs és külön gömbtömő van, hanem egy cementtömő, és akkor azzal mondjuk elég sok mindent meg lehet oldani egy műszerrel, és akkor az megint csökkenti a műszerek mennyiségét. [[AEfficiency->NotMeasured||Man_mat]]
+
+I: Törekednél-e annak ellenére tárgyak újbóli fogászati felhasználására, hogy az infekciókontroll szempontjából kevésbé praktikus? 
+
+C: Hát nézd, maga a [ANONIMIZÁLVA] is alkalmazza ezt az elvet, tehát nyilván így kénytelen-kelletlen belesimulunk ebbe nyilván. Nyilván ami mondjuk alapvető, hogy maszk kesztyű nyilván, az cserés, vagy hát a kesztyű nyilván betegek között, vagy akár kezelés során is. De ami olyan, igazából eszközökben igyekeznek, nyilván amennyire tudják az infekciókontroll a szabályait betartani, de hogy azt gondolom, hogy a [ANONIMIZÁLVA] egyébként is igyekszik ezt úgy kezelni, amit lehet inkább még használni, azt felhasználjuk. Persze nem feltétlenül a környezettudatosság szempontjából, de ez már egy kicsit kérdés. Végül is a végcél ugyanaz. [[AEfficiency->Measured||Ana_mat]]
+
+I: Szerinted milyen akadályai lehetnek annak, hogy erősítsük a prevenciós szemléletet? 
+
+C: A legtöbb esetben az, hogy viszonylag kevés olyan páciens kerül hozzánk, ahol mondjuk a primer prevenciót tudjuk alkalmazni. Tehát a legtöbb esetben mi már ugye a szekunder meg a tercier fázisban jutunk a páciens mellé, és nyilván amikor az ember végigér ezeken a fázisokon, akkor visszacsatol újra a primer részre, de szerintem inkább az a fő problémám, hogy már sokkal későbbi fázisban jutnak el hozzánk. [[PMotivation->Measured||Man_prev]]
+
+I: Törekednél-e annak ellenére a prevenciós szemlélet erősítésére, hogy a magán fogorvosi rendelők pácienseinek bizalmát csökkentheti egyébként, hogy a fogorvos újabb prevenciós beavatkozásokat javasol? 
+
+C: Abszolút, egyébként. Igen, ugye ez is egy érdekes kérdés, de én alapvetően azért ott is, most jelenleg én nem dolgozom magánrendelőben, de egyébként amikor ott dolgoztam is, igyekeztem törekedni arra, hogy nyilván a pácienseket edukáljuk, tehát hogy segítsünk nekik. 
+
+I: Szerinted milyen akadályai lehetnek annak, hogy több digitális technológiát alkalmazzuk? 
+
+C: Hát minimális akadálya lehet például mondjuk, mert amit alapvetően fent a [ANONIMIZÁLVA] csinálunk, azok alapvetően szólórestaurátumok, helyek közel, és ami már mondjuk egy nagyobb kiterjedésű dolog, azért ott abban már szokott fennakadás lenni a lenti technikával való kommunikációban, szóval az néha szokott problematikus lenni például, vagy például magán rendelőben szintén, habár ott is volt már intraorális szkenner, de azért a workflow nem volt mindig olyan egyszerű. [[AEfficiency->Measured||Aff_dig]]
+
+I: Milyen kommunikációs probléma vagy mi a probléma ilyenkor? 
+
+C: Hát például akár egy széli záródási határ megrajzolása. Mondjuk ez nálunk ott még pont egy ilyen bevezetési időszakban volt a magánrendelőben, és akkor az még egy ilyen kérdés volt, hogy innen nem, tehát olyan szoftvert használtunk, ahol ha én bejelöltem, akkor az nem ment át mindig teljesen egyértelműen. Vagy ha például újraszkenneltem egy részt, akkor az nem frissítette automatikusan, és akkor ebből voltak elcsúszások, hogy most igazából melyik mintát nézzük, vagy nézzük, szóval ilyen kommunikációs probléma volt, meg hát nyilván anyagi megfontolások, tehát azért nagyon sok technika még csak ilyen gyerekcipőben használja. [[EAvailable->Measured||Aff_dig]]
+
+I: Az utolsó kérdés részben pont erre keres rá, hogy törekednél-e annak ellenére a digitális technológiák alkalmazására, hogy ezek kezdetben általában drágábbak a hagyományos megoldásoknál, és új készségeket kell elsajátítani a használatukhoz? 
+
+C: Abszolút! Abszolút! Én azt gondolom, hogy itt a [anonimizálva] maximálisan tudta csökkenteni például a kiadási költséget, hiába költséges beruházás, nyilván sok támogatást is kaptak rá, de mondjuk lényegesen kevesebb műanyag kanalunk van, lényegesen kevesebb lenyomott anyagot vásárolunk, és ez valamilyen szinten mégiscsak a javára fordult az egésznek.

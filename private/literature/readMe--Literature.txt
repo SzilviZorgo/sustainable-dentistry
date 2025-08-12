@@ -1,1 +1,0 @@
-This subdirectory is to store non-open access publications. This is a good place to keep these, as if you are using Git, it will never be synced to the repository (see: .gitignore file in root directory).

@@ -1,0 +1,102 @@
+Average Session Activity per Case:
+--------------------------------
+Case ID: case01 - Average: 0.75 
+Case ID: case02 - Average: 0.5 
+Case ID: case03 - Average: 0 
+Case ID: case04 - Average: 0.25 
+Case ID: case05 - Average: 0 
+Case ID: case06 - Average: 0.25 
+Case ID: case07 - Average: 0.5 
+Case ID: case08 - Average: 0.5 
+Case ID: case09 - Average: 0.5 
+Case ID: case10 - Average: 0 
+Case ID: case11 - Average: 1 
+Case ID: case12 - Average: 0.25 
+Case ID: case13 - Average: 0.25 
+Case ID: case14 - Average: 0 
+Case ID: case15 - Average: 0.5 
+Case ID: case16 - Average: 0.25 
+
+
+Session Activity Summary per Case:
+--------------------------------
+Case ID: case01 
+  Session case01_S01 : 1 
+  Session case01_S02 : 1 
+  Session case01_S03 : 0 
+  Session case01_S04 : 1 
+Case ID: case02 
+  Session case02_S01 : 0 
+  Session case02_S02 : 0 
+  Session case02_S03 : 1 
+  Session case02_S04 : 1 
+Case ID: case03 
+  Session case03_S01 : 0 
+  Session case03_S02 : 0 
+  Session case03_S03 : 0 
+  Session case03_S04 : 0 
+Case ID: case04 
+  Session case04_S01 : 0 
+  Session case04_S02 : 0 
+  Session case04_S03 : 1 
+  Session case04_S04 : 0 
+Case ID: case05 
+  Session case05_S01 : 0 
+  Session case05_S02 : 0 
+  Session case05_S03 : 0 
+  Session case05_S04 : 0 
+Case ID: case06 
+  Session case06_S01 : 0 
+  Session case06_S02 : 0 
+  Session case06_S03 : 1 
+  Session case06_S04 : 0 
+Case ID: case07 
+  Session case07_S01 : 1 
+  Session case07_S02 : 0 
+  Session case07_S03 : 0 
+  Session case07_S04 : 1 
+Case ID: case08 
+  Session case08_S01 : 1 
+  Session case08_S02 : 0 
+  Session case08_S03 : 0 
+  Session case08_S04 : 1 
+Case ID: case09 
+  Session case09_S01 : 0 
+  Session case09_S02 : 0 
+  Session case09_S03 : 1 
+  Session case09_S04 : 1 
+Case ID: case10 
+  Session case10_S01 : 0 
+  Session case10_S02 : 0 
+  Session case10_S03 : 0 
+  Session case10_S04 : 0 
+Case ID: case11 
+  Session case11_S01 : 1 
+  Session case11_S02 : 1 
+  Session case11_S03 : 1 
+  Session case11_S04 : 1 
+Case ID: case12 
+  Session case12_S01 : 0 
+  Session case12_S02 : 0 
+  Session case12_S03 : 0 
+  Session case12_S04 : 1 
+Case ID: case13 
+  Session case13_S01 : 1 
+  Session case13_S02 : 0 
+  Session case13_S03 : 0 
+  Session case13_S04 : 0 
+Case ID: case14 
+  Session case14_S01 : 0 
+  Session case14_S02 : 0 
+  Session case14_S03 : 0 
+  Session case14_S04 : 0 
+Case ID: case15 
+  Session case15_S01 : 1 
+  Session case15_S02 : 1 
+  Session case15_S03 : 0 
+  Session case15_S04 : 0 
+Case ID: case16 
+  Session case16_S01 : 0 
+  Session case16_S02 : 0 
+  Session case16_S03 : 1 
+  Session case16_S04 : 0 
